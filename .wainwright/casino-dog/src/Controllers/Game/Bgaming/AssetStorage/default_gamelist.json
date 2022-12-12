@@ -1,0 +1,6814 @@
+{
+    "0": {
+        "id": 2120,
+        "gid": "softswiss\/WildTexas",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:WildTexas",
+        "name": "Wild Texas",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1855",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/WildTexas\/FUN?play_token=a98b284b-ced3-4f0b-80ca-c8f580bf6ff1",
+        "origin_demolink": "\/games\/softswiss\/WildTexas\/1513",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BRL": {
+                "id": 77050
+            },
+            "USD": {
+                "id": 40241
+            },
+            "NZD": {
+                "id": 77049
+            },
+            "BCH": {
+                "id": 3382
+            },
+            "RUB": {
+                "id": 77051
+            },
+            "AUD": {
+                "id": 86264
+            },
+            "BNB": {
+                "id": 50472
+            },
+            "TRX": {
+                "id": 50473
+            },
+            "DOG": {
+                "id": 3384
+            },
+            "LTC": {
+                "id": 3386
+            },
+            "JPY": {
+                "id": 77048
+            },
+            "ETH": {
+                "id": 3385
+            },
+            "CAD": {
+                "id": 86263
+            },
+            "USDT": {
+                "id": 3387
+            },
+            "XRP": {
+                "id": 28613
+            },
+            "NOK": {
+                "id": 77047
+            },
+            "BTC": {
+                "id": 3383
+            },
+            "EUR": {
+                "id": 40240
+            },
+            "ADA": {
+                "id": 50474
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:42"
+    },
+    "1": {
+        "id": 2121,
+        "gid": "softswiss\/ZorroWildHeart",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:ZorroWildHeart",
+        "name": "Foxy Wild Heart",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "2068",
+        "popularity": "305",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/ZorroWildHeart\/FUN?play_token=c5ff185a-ef5a-4820-9e73-31bc35d241da",
+        "origin_demolink": "\/games\/softswiss\/ZorroWildHeart\/34071",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "AUD": {
+                "id": 86192
+            },
+            "XRP": {
+                "id": 34067
+            },
+            "JPY": {
+                "id": 76782
+            },
+            "NZD": {
+                "id": 76783
+            },
+            "BNB": {
+                "id": 50373
+            },
+            "TRX": {
+                "id": 50374
+            },
+            "LTC": {
+                "id": 34069
+            },
+            "NOK": {
+                "id": 76781
+            },
+            "EUR": {
+                "id": 40106
+            },
+            "BCH": {
+                "id": 34064
+            },
+            "BRL": {
+                "id": 76784
+            },
+            "DOG": {
+                "id": 34070
+            },
+            "USDT": {
+                "id": 34065
+            },
+            "CAD": {
+                "id": 86191
+            },
+            "RUB": {
+                "id": 76785
+            },
+            "BTC": {
+                "id": 34066
+            },
+            "USD": {
+                "id": 40107
+            },
+            "ETH": {
+                "id": 34068
+            },
+            "ADA": {
+                "id": 50375
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:41"
+    },
+    "2": {
+        "id": 2122,
+        "gid": "softswiss\/WildCash",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:WildCash",
+        "name": "Wild Cash",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1559",
+        "popularity": "493",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/WildCash\/FUN?play_token=8d812242-278b-459a-9894-9fb8fdca32e8",
+        "origin_demolink": "\/games\/softswiss\/WildCash\/33867",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "AUD": {
+                "id": 86316
+            },
+            "ETH": {
+                "id": 33864
+            },
+            "USDT": {
+                "id": 33861
+            },
+            "JPY": {
+                "id": 77213
+            },
+            "BCH": {
+                "id": 33860
+            },
+            "RUB": {
+                "id": 77216
+            },
+            "NOK": {
+                "id": 77212
+            },
+            "CAD": {
+                "id": 86315
+            },
+            "XRP": {
+                "id": 33863
+            },
+            "BNB": {
+                "id": 50541
+            },
+            "TRX": {
+                "id": 50542
+            },
+            "BRL": {
+                "id": 77215
+            },
+            "BTC": {
+                "id": 33862
+            },
+            "ADA": {
+                "id": 50543
+            },
+            "DOG": {
+                "id": 33866
+            },
+            "NZD": {
+                "id": 77214
+            },
+            "LTC": {
+                "id": 33865
+            },
+            "EUR": {
+                "id": 40330
+            },
+            "USD": {
+                "id": 40331
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:42"
+    },
+    "3": {
+        "id": 2123,
+        "gid": "softswiss\/WildCashX9990",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:WildCashX9990",
+        "name": "Wild Cash x9990",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "58",
+        "popularity": "88",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/WildCashX9990\/FUN?play_token=f01271fb-4db2-4f42-b252-90ebcace34d0",
+        "origin_demolink": "\/games\/softswiss\/WildCashX9990\/60176",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "LTC": {
+                "id": 60173
+            },
+            "BNB": {
+                "id": 60170
+            },
+            "USD": {
+                "id": 60165
+            },
+            "BCH": {
+                "id": 60166
+            },
+            "JPY": {
+                "id": 77088
+            },
+            "BTC": {
+                "id": 60168
+            },
+            "RUB": {
+                "id": 77091
+            },
+            "XRP": {
+                "id": 60169
+            },
+            "EUR": {
+                "id": 60164
+            },
+            "NZD": {
+                "id": 77089
+            },
+            "ETH": {
+                "id": 60171
+            },
+            "TRX": {
+                "id": 60172
+            },
+            "CAD": {
+                "id": 86273
+            },
+            "DOG": {
+                "id": 60174
+            },
+            "BRL": {
+                "id": 77090
+            },
+            "ADA": {
+                "id": 60175
+            },
+            "USDT": {
+                "id": 60167
+            },
+            "NOK": {
+                "id": 77087
+            },
+            "AUD": {
+                "id": 86274
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:42"
+    },
+    "4": {
+        "id": 2124,
+        "gid": "softswiss\/SpinAndSpell",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:SpinAndSpell",
+        "name": "Spin and Spell",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1309",
+        "popularity": "1685",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/SpinAndSpell\/FUN?play_token=3af965fa-1563-43f7-a2b4-8b10813d3290",
+        "origin_demolink": "\/games\/softswiss\/SpinAndSpell\/1679",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "RUB": {
+                "id": 77081
+            },
+            "LTC": {
+                "id": 3531
+            },
+            "BRL": {
+                "id": 77080
+            },
+            "BCH": {
+                "id": 3527
+            },
+            "DOG": {
+                "id": 3529
+            },
+            "XRP": {
+                "id": 28620
+            },
+            "USDT": {
+                "id": 3532
+            },
+            "TRX": {
+                "id": 50482
+            },
+            "JPY": {
+                "id": 77078
+            },
+            "NZD": {
+                "id": 77079
+            },
+            "BNB": {
+                "id": 50481
+            },
+            "BTC": {
+                "id": 3528
+            },
+            "USD": {
+                "id": 40255
+            },
+            "NOK": {
+                "id": 77077
+            },
+            "CAD": {
+                "id": 86269
+            },
+            "ETH": {
+                "id": 3530
+            },
+            "ADA": {
+                "id": 50483
+            },
+            "AUD": {
+                "id": 86270
+            },
+            "EUR": {
+                "id": 40254
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:42"
+    },
+    "5": {
+        "id": 2125,
+        "gid": "softswiss\/WestTown",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:WestTown",
+        "name": "West Town",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "135",
+        "popularity": "387",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/WestTown\/FUN?play_token=5c60d596-b4d7-4e8d-afc2-626b7a8655fc",
+        "origin_demolink": "\/games\/softswiss\/WestTown\/702",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "TRX": {
+                "id": 50371
+            },
+            "LTC": {
+                "id": 2381
+            },
+            "AUD": {
+                "id": 86190
+            },
+            "CAD": {
+                "id": 86189
+            },
+            "USD": {
+                "id": 40103
+            },
+            "BCH": {
+                "id": 2377
+            },
+            "USDT": {
+                "id": 2382
+            },
+            "NZD": {
+                "id": 76778
+            },
+            "BNB": {
+                "id": 50370
+            },
+            "ETH": {
+                "id": 2380
+            },
+            "EUR": {
+                "id": 40102
+            },
+            "DOG": {
+                "id": 2379
+            },
+            "NOK": {
+                "id": 76776
+            },
+            "BRL": {
+                "id": 76779
+            },
+            "RUB": {
+                "id": 76780
+            },
+            "BTC": {
+                "id": 2378
+            },
+            "JPY": {
+                "id": 76777
+            },
+            "ADA": {
+                "id": 50372
+            },
+            "XRP": {
+                "id": 28547
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:42"
+    },
+    "6": {
+        "id": 2126,
+        "gid": "softswiss\/WbcRingOfRiches",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:WbcRingOfRiches",
+        "name": "WBC Ring of Riches",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "149",
+        "popularity": "638",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/WbcRingOfRiches\/FUN?play_token=e751ed37-ed43-4430-8575-2ffa00b0a99f",
+        "origin_demolink": "\/games\/softswiss\/WbcRingOfRiches\/24705",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "CAD": {
+                "id": 86239
+            },
+            "ADA": {
+                "id": 50441
+            },
+            "BRL": {
+                "id": 76955
+            },
+            "TRX": {
+                "id": 50440
+            },
+            "BTC": {
+                "id": 24702
+            },
+            "USDT": {
+                "id": 24707
+            },
+            "USD": {
+                "id": 40195
+            },
+            "XRP": {
+                "id": 28590
+            },
+            "AUD": {
+                "id": 86240
+            },
+            "NZD": {
+                "id": 76954
+            },
+            "EUR": {
+                "id": 40194
+            },
+            "NOK": {
+                "id": 76952
+            },
+            "ETH": {
+                "id": 24704
+            },
+            "BCH": {
+                "id": 24701
+            },
+            "RUB": {
+                "id": 76956
+            },
+            "LTC": {
+                "id": 24706
+            },
+            "JPY": {
+                "id": 76953
+            },
+            "BNB": {
+                "id": 50439
+            },
+            "DOG": {
+                "id": 24703
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:42"
+    },
+    "7": {
+        "id": 2127,
+        "gid": "softswiss\/TreyPoker",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:TreyPoker",
+        "name": "Trey Poker",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "630",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/TreyPoker\/FUN?play_token=b0f0843c-790c-4e67-a30d-06212967fe2b",
+        "origin_demolink": "\/games\/softswiss\/TreyPoker\/1033",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "LTC": {
+                "id": 2811
+            },
+            "NZD": {
+                "id": 76914
+            },
+            "EUR": {
+                "id": 40172
+            },
+            "CAD": {
+                "id": 86223
+            },
+            "ADA": {
+                "id": 50420
+            },
+            "USD": {
+                "id": 40173
+            },
+            "XRP": {
+                "id": 28582
+            },
+            "AUD": {
+                "id": 86224
+            },
+            "RUB": {
+                "id": 76916
+            },
+            "DOG": {
+                "id": 2809
+            },
+            "ETH": {
+                "id": 2810
+            },
+            "JPY": {
+                "id": 76913
+            },
+            "BNB": {
+                "id": 50418
+            },
+            "BTC": {
+                "id": 2808
+            },
+            "NOK": {
+                "id": 76912
+            },
+            "USDT": {
+                "id": 2812
+            },
+            "BRL": {
+                "id": 76915
+            },
+            "TRX": {
+                "id": 50419
+            },
+            "BCH": {
+                "id": 2807
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:42"
+    },
+    "8": {
+        "id": 2128,
+        "gid": "softswiss\/TexasHoldem",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:TexasHoldem",
+        "name": "Texas Hold`em",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1745",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/TexasHoldem\/FUN?play_token=2e96d916-acb7-4dea-a204-3ca1b84206b6",
+        "origin_demolink": "\/games\/softswiss\/TexasHoldem\/730",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "EUR": {
+                "id": 40110
+            },
+            "ADA": {
+                "id": 50381
+            },
+            "BNB": {
+                "id": 50379
+            },
+            "ETH": {
+                "id": 2422
+            },
+            "JPY": {
+                "id": 76792
+            },
+            "USD": {
+                "id": 40111
+            },
+            "LTC": {
+                "id": 2423
+            },
+            "BCH": {
+                "id": 2419
+            },
+            "RUB": {
+                "id": 76795
+            },
+            "AUD": {
+                "id": 86196
+            },
+            "XRP": {
+                "id": 28551
+            },
+            "NOK": {
+                "id": 76791
+            },
+            "DOG": {
+                "id": 2421
+            },
+            "TRX": {
+                "id": 50380
+            },
+            "CAD": {
+                "id": 86195
+            },
+            "BRL": {
+                "id": 76794
+            },
+            "BTC": {
+                "id": 2420
+            },
+            "USDT": {
+                "id": 2424
+            },
+            "NZD": {
+                "id": 76793
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:43"
+    },
+    "9": {
+        "id": 2129,
+        "gid": "softswiss\/SicBoMacau",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:SicBoMacau",
+        "name": "Sic Bo Macau",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1662",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/SicBoMacau\/FUN?play_token=958b89e6-7502-4645-aff7-8d100bf204ed",
+        "origin_demolink": "\/games\/softswiss\/SicBoMacau\/1067",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "TRX": {
+                "id": 50428
+            },
+            "ETH": {
+                "id": 2871
+            },
+            "EUR": {
+                "id": 40184
+            },
+            "BNB": {
+                "id": 50427
+            },
+            "NZD": {
+                "id": 76934
+            },
+            "USDT": {
+                "id": 2873
+            },
+            "LTC": {
+                "id": 2872
+            },
+            "NOK": {
+                "id": 76932
+            },
+            "CAD": {
+                "id": 86231
+            },
+            "DOG": {
+                "id": 2870
+            },
+            "ADA": {
+                "id": 50429
+            },
+            "RUB": {
+                "id": 76936
+            },
+            "XRP": {
+                "id": 28584
+            },
+            "AUD": {
+                "id": 86232
+            },
+            "BCH": {
+                "id": 2868
+            },
+            "BTC": {
+                "id": 2869
+            },
+            "USD": {
+                "id": 40185
+            },
+            "JPY": {
+                "id": 76933
+            },
+            "BRL": {
+                "id": 76935
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:49"
+    },
+    "10": {
+        "id": 2130,
+        "gid": "softswiss\/MechanicalOrange",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:MechanicalOrange",
+        "name": "Mechanical Orange",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1149",
+        "popularity": "1493",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/MechanicalOrange\/FUN?play_token=4edf7b1f-e95e-4ac8-bda2-9e95ad81693e",
+        "origin_demolink": "\/games\/softswiss\/MechanicalOrange\/2194",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BNB": {
+                "id": 50547
+            },
+            "EUR": {
+                "id": 40334
+            },
+            "XRP": {
+                "id": 28655
+            },
+            "AUD": {
+                "id": 86320
+            },
+            "NOK": {
+                "id": 77222
+            },
+            "ADA": {
+                "id": 50549
+            },
+            "DOG": {
+                "id": 4172
+            },
+            "JPY": {
+                "id": 77223
+            },
+            "USD": {
+                "id": 40335
+            },
+            "ETH": {
+                "id": 4173
+            },
+            "BRL": {
+                "id": 77225
+            },
+            "RUB": {
+                "id": 77226
+            },
+            "NZD": {
+                "id": 77224
+            },
+            "CAD": {
+                "id": 86319
+            },
+            "USDT": {
+                "id": 4175
+            },
+            "BTC": {
+                "id": 4171
+            },
+            "LTC": {
+                "id": 4174
+            },
+            "TRX": {
+                "id": 50548
+            },
+            "BCH": {
+                "id": 4170
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:43"
+    },
+    "11": {
+        "id": 2131,
+        "gid": "softswiss\/SpaceXY",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:SpaceXY",
+        "name": "Space XY",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "178",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/SpaceXY\/FUN?play_token=fc9b57d6-6cf5-4083-99c2-9edfcbb51285",
+        "origin_demolink": "\/games\/softswiss\/SpaceXY\/30715",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "CAD": {
+                "id": 86235
+            },
+            "AUD": {
+                "id": 86236
+            },
+            "RUB": {
+                "id": 76946
+            },
+            "ETH": {
+                "id": 30714
+            },
+            "BNB": {
+                "id": 50433
+            },
+            "ADA": {
+                "id": 50435
+            },
+            "BRL": {
+                "id": 76945
+            },
+            "JPY": {
+                "id": 76943
+            },
+            "TRX": {
+                "id": 50434
+            },
+            "XRP": {
+                "id": 30718
+            },
+            "USD": {
+                "id": 40189
+            },
+            "BTC": {
+                "id": 30712
+            },
+            "NOK": {
+                "id": 76942
+            },
+            "BCH": {
+                "id": 30711
+            },
+            "DOG": {
+                "id": 30713
+            },
+            "LTC": {
+                "id": 30716
+            },
+            "EUR": {
+                "id": 40188
+            },
+            "USDT": {
+                "id": 30717
+            },
+            "NZD": {
+                "id": 76944
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:43"
+    },
+    "12": {
+        "id": 2132,
+        "gid": "softswiss\/ScratchDice",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:ScratchDice",
+        "name": "Scratch Dice",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1636",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/ScratchDice\/FUN?play_token=782bddd1-9a83-4fee-be94-fae43f379e8c",
+        "origin_demolink": "\/games\/softswiss\/ScratchDice\/786",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "EUR": {
+                "id": 40122
+            },
+            "BRL": {
+                "id": 76829
+            },
+            "USDT": {
+                "id": 2527
+            },
+            "JPY": {
+                "id": 76827
+            },
+            "DOG": {
+                "id": 2524
+            },
+            "AUD": {
+                "id": 92195
+            },
+            "TRX": {
+                "id": 92198
+            },
+            "BNB": {
+                "id": 92197
+            },
+            "XRP": {
+                "id": 92196
+            },
+            "BCH": {
+                "id": 2522
+            },
+            "CAD": {
+                "id": 92194
+            },
+            "LTC": {
+                "id": 2526
+            },
+            "BTC": {
+                "id": 2523
+            },
+            "RUB": {
+                "id": 76830
+            },
+            "USD": {
+                "id": 40123
+            },
+            "ETH": {
+                "id": 2525
+            },
+            "ADA": {
+                "id": 92199
+            },
+            "NOK": {
+                "id": 76826
+            },
+            "NZD": {
+                "id": 76828
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:43"
+    },
+    "13": {
+        "id": 2133,
+        "gid": "softswiss\/Plinko",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:Plinko",
+        "name": "Plinko",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "516",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/Plinko\/FUN?play_token=cb7b607f-6c57-4045-a56a-670db6a7d415",
+        "origin_demolink": "\/games\/softswiss\/Plinko\/849",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "EUR": {
+                "id": 92207
+            },
+            "BRL": {
+                "id": 76869
+            },
+            "CAD": {
+                "id": 92209
+            },
+            "BTC": {
+                "id": 2613
+            },
+            "XRP": {
+                "id": 28568
+            },
+            "USDT": {
+                "id": 2617
+            },
+            "LTC": {
+                "id": 2616
+            },
+            "ETH": {
+                "id": 2615
+            },
+            "TRX": {
+                "id": 92212
+            },
+            "NOK": {
+                "id": 76866
+            },
+            "RUB": {
+                "id": 76870
+            },
+            "USD": {
+                "id": 92208
+            },
+            "BCH": {
+                "id": 2612
+            },
+            "DOG": {
+                "id": 2614
+            },
+            "NZD": {
+                "id": 76868
+            },
+            "AUD": {
+                "id": 92210
+            },
+            "ADA": {
+                "id": 92213
+            },
+            "JPY": {
+                "id": 76867
+            },
+            "BNB": {
+                "id": 92211
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:43"
+    },
+    "14": {
+        "id": 2134,
+        "gid": "softswiss\/SicBo",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:SicBo",
+        "name": "Sic Bo",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1661",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/SicBo\/FUN?play_token=e74a5ee4-b824-4cde-bbf2-7238e813ca86",
+        "origin_demolink": "\/games\/softswiss\/SicBo\/2159",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "LTC": {
+                "id": 4107
+            },
+            "NOK": {
+                "id": 77202
+            },
+            "BTC": {
+                "id": 4104
+            },
+            "JPY": {
+                "id": 77203
+            },
+            "DOG": {
+                "id": 4105
+            },
+            "CAD": {
+                "id": 86311
+            },
+            "EUR": {
+                "id": 40324
+            },
+            "ADA": {
+                "id": 50537
+            },
+            "BCH": {
+                "id": 4103
+            },
+            "BRL": {
+                "id": 77205
+            },
+            "USDT": {
+                "id": 4108
+            },
+            "XRP": {
+                "id": 28649
+            },
+            "NZD": {
+                "id": 77204
+            },
+            "USD": {
+                "id": 40325
+            },
+            "TRX": {
+                "id": 50536
+            },
+            "AUD": {
+                "id": 86312
+            },
+            "RUB": {
+                "id": 77206
+            },
+            "BNB": {
+                "id": 50535
+            },
+            "ETH": {
+                "id": 4106
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:43"
+    },
+    "15": {
+        "id": 2135,
+        "gid": "softswiss\/RocketDiceXY",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:RocketDiceXY",
+        "name": "Rocket Dice XY",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "484",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/RocketDiceXY\/FUN?play_token=81e4ee23-b940-40da-90dd-1460d6bbd69a",
+        "origin_demolink": "\/games\/softswiss\/RocketDiceXY\/32515",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BNB": {
+                "id": 50526
+            },
+            "CAD": {
+                "id": 86305
+            },
+            "NZD": {
+                "id": 77189
+            },
+            "BTC": {
+                "id": 32510
+            },
+            "LTC": {
+                "id": 32513
+            },
+            "BCH": {
+                "id": 32508
+            },
+            "USD": {
+                "id": 40315
+            },
+            "DOG": {
+                "id": 32514
+            },
+            "USDT": {
+                "id": 32509
+            },
+            "BRL": {
+                "id": 77190
+            },
+            "EUR": {
+                "id": 40314
+            },
+            "ETH": {
+                "id": 32512
+            },
+            "JPY": {
+                "id": 77188
+            },
+            "AUD": {
+                "id": 86306
+            },
+            "RUB": {
+                "id": 77191
+            },
+            "ADA": {
+                "id": 50528
+            },
+            "TRX": {
+                "id": 50527
+            },
+            "NOK": {
+                "id": 77187
+            },
+            "XRP": {
+                "id": 32511
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:43"
+    },
+    "16": {
+        "id": 2136,
+        "gid": "softswiss\/RocketDice",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:RocketDice",
+        "name": "Rocket Dice",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1608",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/RocketDice\/FUN?play_token=b952afb7-24ed-40c9-8b96-5edeec4f37b9",
+        "origin_demolink": "\/games\/softswiss\/RocketDice\/2120",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "AUD": {
+                "id": 92248
+            },
+            "BRL": {
+                "id": 77185
+            },
+            "USDT": {
+                "id": 4072
+            },
+            "TRX": {
+                "id": 92250
+            },
+            "ADA": {
+                "id": 92251
+            },
+            "LTC": {
+                "id": 4071
+            },
+            "DOG": {
+                "id": 4069
+            },
+            "BCH": {
+                "id": 4067
+            },
+            "XRP": {
+                "id": 28644
+            },
+            "CAD": {
+                "id": 92247
+            },
+            "BNB": {
+                "id": 92249
+            },
+            "USD": {
+                "id": 92246
+            },
+            "NOK": {
+                "id": 77182
+            },
+            "NZD": {
+                "id": 77184
+            },
+            "EUR": {
+                "id": 92245
+            },
+            "ETH": {
+                "id": 4070
+            },
+            "RUB": {
+                "id": 77186
+            },
+            "JPY": {
+                "id": 77183
+            },
+            "BTC": {
+                "id": 4068
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:43"
+    },
+    "17": {
+        "id": 2137,
+        "gid": "softswiss\/PlatinumLightning",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:PlatinumLightning",
+        "name": "Platinum Lightning",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1187",
+        "popularity": "1531",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/PlatinumLightning\/FUN?play_token=7e4979ea-4ff0-4b26-9ee4-54c542f06bad",
+        "origin_demolink": "\/games\/softswiss\/PlatinumLightning\/2322",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "NOK": {
+                "id": 77252
+            },
+            "USDT": {
+                "id": 4332
+            },
+            "EUR": {
+                "id": 92260
+            },
+            "DOG": {
+                "id": 4329
+            },
+            "CAD": {
+                "id": 92262
+            },
+            "BNB": {
+                "id": 92265
+            },
+            "RUB": {
+                "id": 77256
+            },
+            "ADA": {
+                "id": 92267
+            },
+            "BCH": {
+                "id": 4327
+            },
+            "BRL": {
+                "id": 77255
+            },
+            "ETH": {
+                "id": 4330
+            },
+            "LTC": {
+                "id": 4331
+            },
+            "BTC": {
+                "id": 4328
+            },
+            "JPY": {
+                "id": 77253
+            },
+            "NZD": {
+                "id": 77254
+            },
+            "AUD": {
+                "id": 92263
+            },
+            "XRP": {
+                "id": 92264
+            },
+            "USD": {
+                "id": 92261
+            },
+            "TRX": {
+                "id": 92266
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:44"
+    },
+    "18": {
+        "id": 2138,
+        "gid": "softswiss\/Road2Riches",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:Road2Riches",
+        "name": "Road 2 Riches",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1254",
+        "popularity": "838",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/Road2Riches\/FUN?play_token=d035de71-c79b-41a5-b79c-f757e7e8bb69",
+        "origin_demolink": "\/games\/softswiss\/Road2Riches\/24740",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "NOK": {
+                "id": 77237
+            },
+            "NZD": {
+                "id": 77239
+            },
+            "CAD": {
+                "id": 86321
+            },
+            "ADA": {
+                "id": 50552
+            },
+            "BCH": {
+                "id": 24736
+            },
+            "LTC": {
+                "id": 24741
+            },
+            "BNB": {
+                "id": 50550
+            },
+            "ETH": {
+                "id": 24739
+            },
+            "AUD": {
+                "id": 86322
+            },
+            "EUR": {
+                "id": 40344
+            },
+            "USD": {
+                "id": 40345
+            },
+            "XRP": {
+                "id": 28659
+            },
+            "TRX": {
+                "id": 50551
+            },
+            "JPY": {
+                "id": 77238
+            },
+            "BTC": {
+                "id": 24737
+            },
+            "BRL": {
+                "id": 77240
+            },
+            "USDT": {
+                "id": 24742
+            },
+            "DOG": {
+                "id": 24738
+            },
+            "RUB": {
+                "id": 77241
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:44"
+    },
+    "19": {
+        "id": 2139,
+        "gid": "softswiss\/PrincessOfSky",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:PrincessOfSky",
+        "name": "Princess of Sky",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "140",
+        "popularity": "812",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/PrincessOfSky\/FUN?play_token=2976dbff-f2f8-400a-aa57-9d4b46e2f22b",
+        "origin_demolink": "\/games\/softswiss\/PrincessOfSky\/757",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BNB": {
+                "id": 50382
+            },
+            "JPY": {
+                "id": 76802
+            },
+            "BRL": {
+                "id": 76804
+            },
+            "DOG": {
+                "id": 2464
+            },
+            "EUR": {
+                "id": 40114
+            },
+            "ETH": {
+                "id": 2465
+            },
+            "AUD": {
+                "id": 86198
+            },
+            "TRX": {
+                "id": 50383
+            },
+            "USDT": {
+                "id": 2467
+            },
+            "USD": {
+                "id": 40115
+            },
+            "NZD": {
+                "id": 76803
+            },
+            "NOK": {
+                "id": 76801
+            },
+            "BTC": {
+                "id": 2463
+            },
+            "LTC": {
+                "id": 2466
+            },
+            "RUB": {
+                "id": 76805
+            },
+            "XRP": {
+                "id": 28554
+            },
+            "BCH": {
+                "id": 2462
+            },
+            "ADA": {
+                "id": 50384
+            },
+            "CAD": {
+                "id": 86197
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:44"
+    },
+    "20": {
+        "id": 2140,
+        "gid": "softswiss\/Pontoon",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:Pontoon",
+        "name": "Pontoon",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1536",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/Pontoon\/FUN?play_token=01b0a201-8dba-42d2-be69-bec2678d3623",
+        "origin_demolink": "\/games\/softswiss\/Pontoon\/1157",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "DOG": {
+                "id": 2967
+            },
+            "ETH": {
+                "id": 2968
+            },
+            "BNB": {
+                "id": 50442
+            },
+            "USDT": {
+                "id": 2970
+            },
+            "LTC": {
+                "id": 2969
+            },
+            "TRX": {
+                "id": 50443
+            },
+            "NZD": {
+                "id": 76964
+            },
+            "USD": {
+                "id": 40199
+            },
+            "JPY": {
+                "id": 76963
+            },
+            "EUR": {
+                "id": 40198
+            },
+            "BTC": {
+                "id": 2966
+            },
+            "NOK": {
+                "id": 76962
+            },
+            "AUD": {
+                "id": 86244
+            },
+            "BRL": {
+                "id": 76965
+            },
+            "XRP": {
+                "id": 28591
+            },
+            "RUB": {
+                "id": 76966
+            },
+            "BCH": {
+                "id": 2965
+            },
+            "CAD": {
+                "id": 86243
+            },
+            "ADA": {
+                "id": 50444
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:44"
+    },
+    "21": {
+        "id": 2141,
+        "gid": "softswiss\/PlinkoXY",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:PlinkoXY",
+        "name": "Plinko XY",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "120",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/PlinkoXY\/FUN?play_token=ff38da88-3bab-49d2-825e-b4f156759de9",
+        "origin_demolink": "\/games\/softswiss\/PlinkoXY\/32507",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "TRX": {
+                "id": 50410
+            },
+            "EUR": {
+                "id": 40148
+            },
+            "BNB": {
+                "id": 50409
+            },
+            "DOG": {
+                "id": 32506
+            },
+            "BTC": {
+                "id": 32502
+            },
+            "LTC": {
+                "id": 32505
+            },
+            "ADA": {
+                "id": 50411
+            },
+            "RUB": {
+                "id": 76890
+            },
+            "ETH": {
+                "id": 32504
+            },
+            "BCH": {
+                "id": 32500
+            },
+            "USDT": {
+                "id": 32501
+            },
+            "BRL": {
+                "id": 76889
+            },
+            "AUD": {
+                "id": 86218
+            },
+            "XRP": {
+                "id": 32503
+            },
+            "CAD": {
+                "id": 86217
+            },
+            "NZD": {
+                "id": 76888
+            },
+            "NOK": {
+                "id": 76886
+            },
+            "JPY": {
+                "id": 76887
+            },
+            "USD": {
+                "id": 40149
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:34",
+        "updated_at": "2022-10-27 22:21:44"
+    },
+    "22": {
+        "id": 2142,
+        "gid": "softswiss\/PlatinumLightningDeluxe",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:PlatinumLightningDeluxe",
+        "name": "Platinum Lightning Deluxe",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1203",
+        "popularity": "1532",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/PlatinumLightningDeluxe\/FUN?play_token=c3c77046-94fc-4d9f-8372-7bb729511ce4",
+        "origin_demolink": "\/games\/softswiss\/PlatinumLightningDeluxe\/1878",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BNB": {
+                "id": 92242
+            },
+            "NOK": {
+                "id": 77127
+            },
+            "RUB": {
+                "id": 77131
+            },
+            "AUD": {
+                "id": 92240
+            },
+            "BRL": {
+                "id": 77130
+            },
+            "BCH": {
+                "id": 3775
+            },
+            "ETH": {
+                "id": 3778
+            },
+            "TRX": {
+                "id": 92243
+            },
+            "JPY": {
+                "id": 77128
+            },
+            "BTC": {
+                "id": 3776
+            },
+            "USDT": {
+                "id": 3780
+            },
+            "USD": {
+                "id": 92238
+            },
+            "CAD": {
+                "id": 92239
+            },
+            "LTC": {
+                "id": 3779
+            },
+            "EUR": {
+                "id": 92237
+            },
+            "DOG": {
+                "id": 3777
+            },
+            "XRP": {
+                "id": 92241
+            },
+            "ADA": {
+                "id": 92244
+            },
+            "NZD": {
+                "id": 77129
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:44"
+    },
+    "23": {
+        "id": 2143,
+        "gid": "softswiss\/MissCherryFruitsJackpotparty",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:MissCherryFruitsJackpotparty",
+        "name": "Miss Cherry Fruits Jackpot party",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1871",
+        "popularity": "710",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/MissCherryFruitsJackpotparty\/FUN?play_token=39d216fe-7b17-4108-85a0-efe4a46482dd",
+        "origin_demolink": "\/games\/softswiss\/MissCherryFruitsJackpotparty\/58246",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "TRX": {
+                "id": 92204
+            },
+            "NOK": {
+                "id": 76861
+            },
+            "AUD": {
+                "id": 86210
+            },
+            "USD": {
+                "id": 58242
+            },
+            "BRL": {
+                "id": 76864
+            },
+            "USDT": {
+                "id": 92201
+            },
+            "BNB": {
+                "id": 92203
+            },
+            "XRP": {
+                "id": 92202
+            },
+            "NZD": {
+                "id": 76863
+            },
+            "RUB": {
+                "id": 76865
+            },
+            "ADA": {
+                "id": 92206
+            },
+            "LTC": {
+                "id": 58245
+            },
+            "EUR": {
+                "id": 58241
+            },
+            "CAD": {
+                "id": 86209
+            },
+            "ETH": {
+                "id": 58244
+            },
+            "DOG": {
+                "id": 92205
+            },
+            "BCH": {
+                "id": 92200
+            },
+            "BTC": {
+                "id": 58243
+            },
+            "JPY": {
+                "id": 76862
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:44"
+    },
+    "26": {
+        "id": 2146,
+        "gid": "softswiss\/PennyPelican",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:PennyPelican",
+        "name": "Penny Pelican",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "33",
+        "popularity": "37",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/PennyPelican\/FUN?play_token=48448706-a283-45a6-b443-d44530eea78e",
+        "origin_demolink": "\/games\/softswiss\/PennyPelican\/37676",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "EUR": {
+                "id": 40308
+            },
+            "TRX": {
+                "id": 50521
+            },
+            "CAD": {
+                "id": 86301
+            },
+            "DOG": {
+                "id": 37675
+            },
+            "AUD": {
+                "id": 86302
+            },
+            "JPY": {
+                "id": 77168
+            },
+            "USD": {
+                "id": 40309
+            },
+            "BNB": {
+                "id": 50520
+            },
+            "USDT": {
+                "id": 37670
+            },
+            "BRL": {
+                "id": 77170
+            },
+            "NZD": {
+                "id": 77169
+            },
+            "ADA": {
+                "id": 50522
+            },
+            "XRP": {
+                "id": 37672
+            },
+            "LTC": {
+                "id": 37674
+            },
+            "NOK": {
+                "id": 77167
+            },
+            "BCH": {
+                "id": 37669
+            },
+            "ETH": {
+                "id": 37673
+            },
+            "RUB": {
+                "id": 77171
+            },
+            "BTC": {
+                "id": 37671
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:45"
+    },
+    "30": {
+        "id": 2150,
+        "gid": "softswiss\/MultihandBlackjack",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:MultihandBlackjack",
+        "name": "Multihand Blackjack",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "402",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/MultihandBlackjack\/FUN?play_token=17f25b9f-476b-4f8e-ada1-466d4999ed22",
+        "origin_demolink": "\/games\/softswiss\/MultihandBlackjack\/1816",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "ADA": {
+                "id": 92236
+            },
+            "NOK": {
+                "id": 77112
+            },
+            "DOG": {
+                "id": 3687
+            },
+            "BCH": {
+                "id": 3685
+            },
+            "CAD": {
+                "id": 92231
+            },
+            "JPY": {
+                "id": 77113
+            },
+            "BNB": {
+                "id": 92234
+            },
+            "TRX": {
+                "id": 92235
+            },
+            "USD": {
+                "id": 92230
+            },
+            "EUR": {
+                "id": 92229
+            },
+            "ETH": {
+                "id": 3688
+            },
+            "LTC": {
+                "id": 3689
+            },
+            "BRL": {
+                "id": 77115
+            },
+            "RUB": {
+                "id": 77116
+            },
+            "NZD": {
+                "id": 77114
+            },
+            "XRP": {
+                "id": 92233
+            },
+            "BTC": {
+                "id": 3686
+            },
+            "USDT": {
+                "id": 3690
+            },
+            "AUD": {
+                "id": 92232
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:45"
+    },
+    "34": {
+        "id": 2154,
+        "gid": "softswiss\/OasisPoker",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:OasisPoker",
+        "name": "Oasis Poker",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1515",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/OasisPoker\/FUN?play_token=2692a13e-57ab-4806-bb67-47178e24c6e7",
+        "origin_demolink": "\/games\/softswiss\/OasisPoker\/1319",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "LTC": {
+                "id": 3173
+            },
+            "AUD": {
+                "id": 86256
+            },
+            "XRP": {
+                "id": 28600
+            },
+            "USD": {
+                "id": 40215
+            },
+            "BNB": {
+                "id": 50460
+            },
+            "TRX": {
+                "id": 50461
+            },
+            "DOG": {
+                "id": 3171
+            },
+            "ADA": {
+                "id": 50462
+            },
+            "BTC": {
+                "id": 3170
+            },
+            "BRL": {
+                "id": 77005
+            },
+            "JPY": {
+                "id": 77003
+            },
+            "NOK": {
+                "id": 77002
+            },
+            "EUR": {
+                "id": 40214
+            },
+            "BCH": {
+                "id": 3169
+            },
+            "CAD": {
+                "id": 86255
+            },
+            "USDT": {
+                "id": 3174
+            },
+            "RUB": {
+                "id": 77006
+            },
+            "NZD": {
+                "id": 77004
+            },
+            "ETH": {
+                "id": 3172
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:46"
+    },
+    "37": {
+        "id": 2157,
+        "gid": "softswiss\/MissCherryFruits",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:MissCherryFruits",
+        "name": "Miss Cherry Fruits",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1166",
+        "popularity": "3717",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/MissCherryFruits\/FUN?play_token=6ad2089f-ecd6-49b2-a2d0-8ef54fe76357",
+        "origin_demolink": "\/games\/softswiss\/MissCherryFruits\/24719",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "NZD": {
+                "id": 77084
+            },
+            "LTC": {
+                "id": 24720
+            },
+            "RUB": {
+                "id": 77086
+            },
+            "XRP": {
+                "id": 28621
+            },
+            "ADA": {
+                "id": 50486
+            },
+            "TRX": {
+                "id": 50485
+            },
+            "NOK": {
+                "id": 77082
+            },
+            "BTC": {
+                "id": 24716
+            },
+            "USDT": {
+                "id": 24721
+            },
+            "USD": {
+                "id": 40259
+            },
+            "JPY": {
+                "id": 77083
+            },
+            "AUD": {
+                "id": 86272
+            },
+            "ETH": {
+                "id": 24718
+            },
+            "EUR": {
+                "id": 40258
+            },
+            "BRL": {
+                "id": 77085
+            },
+            "BNB": {
+                "id": 50484
+            },
+            "BCH": {
+                "id": 24715
+            },
+            "DOG": {
+                "id": 24717
+            },
+            "CAD": {
+                "id": 86271
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:46"
+    },
+    "41": {
+        "id": 2161,
+        "gid": "softswiss\/DesertTreasure",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:DesertTreasure",
+        "name": "Desert Treasure",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "672",
+        "popularity": "1223",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/DesertTreasure\/FUN?play_token=f398f18c-7b98-4d48-a0ea-12e80904f9e8",
+        "origin_demolink": "\/games\/softswiss\/DesertTreasure\/819",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BRL": {
+                "id": 76859
+            },
+            "XRP": {
+                "id": 28566
+            },
+            "LTC": {
+                "id": 2586
+            },
+            "JPY": {
+                "id": 76857
+            },
+            "ETH": {
+                "id": 2585
+            },
+            "EUR": {
+                "id": 40128
+            },
+            "CAD": {
+                "id": 86207
+            },
+            "NZD": {
+                "id": 76858
+            },
+            "USD": {
+                "id": 40129
+            },
+            "USDT": {
+                "id": 2587
+            },
+            "RUB": {
+                "id": 76860
+            },
+            "BCH": {
+                "id": 2582
+            },
+            "BNB": {
+                "id": 50397
+            },
+            "ADA": {
+                "id": 50399
+            },
+            "BTC": {
+                "id": 2583
+            },
+            "DOG": {
+                "id": 2584
+            },
+            "AUD": {
+                "id": 86208
+            },
+            "TRX": {
+                "id": 50398
+            },
+            "NOK": {
+                "id": 76856
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:47"
+    },
+    "43": {
+        "id": 2163,
+        "gid": "softswiss\/MinesweeperXY",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:MinesweeperXY",
+        "name": "Minesweeper XY",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "117",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/MinesweeperXY\/FUN?play_token=960bb68a-a6e8-4202-8fe3-96c8cc562899",
+        "origin_demolink": "\/games\/softswiss\/MinesweeperXY\/32499",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "AUD": {
+                "id": 86230
+            },
+            "DOG": {
+                "id": 32498
+            },
+            "USDT": {
+                "id": 32493
+            },
+            "USD": {
+                "id": 40179
+            },
+            "NZD": {
+                "id": 76929
+            },
+            "NOK": {
+                "id": 76927
+            },
+            "EUR": {
+                "id": 40178
+            },
+            "BTC": {
+                "id": 32494
+            },
+            "RUB": {
+                "id": 76931
+            },
+            "ADA": {
+                "id": 50426
+            },
+            "BRL": {
+                "id": 76930
+            },
+            "XRP": {
+                "id": 32495
+            },
+            "TRX": {
+                "id": 50425
+            },
+            "CAD": {
+                "id": 86229
+            },
+            "ETH": {
+                "id": 32496
+            },
+            "JPY": {
+                "id": 76928
+            },
+            "BNB": {
+                "id": 50424
+            },
+            "BCH": {
+                "id": 32492
+            },
+            "LTC": {
+                "id": 32497
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:47"
+    },
+    "47": {
+        "id": 2167,
+        "gid": "softswiss\/Minesweeper",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:Minesweeper",
+        "name": "Minesweeper",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1500",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/Minesweeper\/FUN?play_token=ef93724d-3b35-4858-a96c-fc042d760a51",
+        "origin_demolink": "\/games\/softswiss\/Minesweeper\/989",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BTC": {
+                "id": 2721
+            },
+            "TRX": {
+                "id": 92219
+            },
+            "RUB": {
+                "id": 76906
+            },
+            "BNB": {
+                "id": 92218
+            },
+            "USDT": {
+                "id": 2725
+            },
+            "JPY": {
+                "id": 76903
+            },
+            "XRP": {
+                "id": 28580
+            },
+            "AUD": {
+                "id": 92217
+            },
+            "USD": {
+                "id": 92215
+            },
+            "CAD": {
+                "id": 92216
+            },
+            "DOG": {
+                "id": 2722
+            },
+            "LTC": {
+                "id": 2724
+            },
+            "BRL": {
+                "id": 76905
+            },
+            "NZD": {
+                "id": 76904
+            },
+            "NOK": {
+                "id": 76902
+            },
+            "ETH": {
+                "id": 2723
+            },
+            "EUR": {
+                "id": 92214
+            },
+            "BCH": {
+                "id": 2720
+            },
+            "ADA": {
+                "id": 92220
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:48"
+    },
+    "51": {
+        "id": 2171,
+        "gid": "softswiss\/JacksOrBetter",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:JacksOrBetter",
+        "name": "Jacks or Better",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1429",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/JacksOrBetter\/FUN?play_token=2eb722fb-9ca6-4ffc-836f-58176482ca0e",
+        "origin_demolink": "\/games\/softswiss\/JacksOrBetter\/1058",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "USDT": {
+                "id": 2855
+            },
+            "LTC": {
+                "id": 2854
+            },
+            "JPY": {
+                "id": 76923
+            },
+            "NOK": {
+                "id": 76922
+            },
+            "BCH": {
+                "id": 2850
+            },
+            "BRL": {
+                "id": 76925
+            },
+            "EUR": {
+                "id": 40176
+            },
+            "DOG": {
+                "id": 2852
+            },
+            "BTC": {
+                "id": 2851
+            },
+            "USD": {
+                "id": 40177
+            },
+            "ETH": {
+                "id": 2853
+            },
+            "AUD": {
+                "id": 86228
+            },
+            "ADA": {
+                "id": 50423
+            },
+            "NZD": {
+                "id": 76924
+            },
+            "RUB": {
+                "id": 76926
+            },
+            "CAD": {
+                "id": 86227
+            },
+            "BNB": {
+                "id": 50421
+            },
+            "TRX": {
+                "id": 50422
+            },
+            "XRP": {
+                "id": 28583
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:48"
+    },
+    "54": {
+        "id": 2174,
+        "gid": "softswiss\/MechanicalClover",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:MechanicalClover",
+        "name": "Mechanical Clover",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1131",
+        "popularity": "860",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/MechanicalClover\/FUN?play_token=489cea75-2b32-4be6-8788-3305f70835ac",
+        "origin_demolink": "\/games\/softswiss\/MechanicalClover\/16808",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BTC": {
+                "id": 16805
+            },
+            "TRX": {
+                "id": 50449
+            },
+            "XRP": {
+                "id": 28594
+            },
+            "ADA": {
+                "id": 50450
+            },
+            "ETH": {
+                "id": 16807
+            },
+            "EUR": {
+                "id": 40204
+            },
+            "BRL": {
+                "id": 76975
+            },
+            "DOG": {
+                "id": 16806
+            },
+            "CAD": {
+                "id": 86247
+            },
+            "AUD": {
+                "id": 86248
+            },
+            "BCH": {
+                "id": 16804
+            },
+            "BNB": {
+                "id": 50448
+            },
+            "NOK": {
+                "id": 76972
+            },
+            "LTC": {
+                "id": 16809
+            },
+            "JPY": {
+                "id": 76973
+            },
+            "USD": {
+                "id": 40205
+            },
+            "RUB": {
+                "id": 76976
+            },
+            "NZD": {
+                "id": 76974
+            },
+            "USDT": {
+                "id": 16810
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:49"
+    },
+    "59": {
+        "id": 2179,
+        "gid": "softswiss\/Maneki88Gold",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:Maneki88Gold",
+        "name": "Maneki 88 Gold",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1933",
+        "popularity": "755",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/Maneki88Gold\/FUN?play_token=d0d1bdf5-d63f-4762-a7d7-bccb68473064",
+        "origin_demolink": "\/games\/softswiss\/Maneki88Gold\/59634",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "JPY": {
+                "id": 76918
+            },
+            "ADA": {
+                "id": 59633
+            },
+            "NOK": {
+                "id": 76917
+            },
+            "AUD": {
+                "id": 86226
+            },
+            "XRP": {
+                "id": 59627
+            },
+            "BRL": {
+                "id": 76920
+            },
+            "BTC": {
+                "id": 59626
+            },
+            "TRX": {
+                "id": 59630
+            },
+            "BNB": {
+                "id": 59628
+            },
+            "NZD": {
+                "id": 76919
+            },
+            "USDT": {
+                "id": 59625
+            },
+            "ETH": {
+                "id": 59629
+            },
+            "CAD": {
+                "id": 86225
+            },
+            "USD": {
+                "id": 59623
+            },
+            "RUB": {
+                "id": 76921
+            },
+            "DOG": {
+                "id": 59632
+            },
+            "EUR": {
+                "id": 59622
+            },
+            "BCH": {
+                "id": 59624
+            },
+            "LTC": {
+                "id": 59631
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:49"
+    },
+    "62": {
+        "id": 2182,
+        "gid": "softswiss\/LuckySweets",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:LuckySweets",
+        "name": "Lucky Sweets",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1110",
+        "popularity": "1481",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/LuckySweets\/FUN?play_token=ba1fd384-9966-432f-a593-2b89444b8fef",
+        "origin_demolink": "\/games\/softswiss\/LuckySweets\/1273",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BCH": {
+                "id": 3109
+            },
+            "XRP": {
+                "id": 28598
+            },
+            "BRL": {
+                "id": 76995
+            },
+            "ETH": {
+                "id": 3112
+            },
+            "BTC": {
+                "id": 3110
+            },
+            "TRX": {
+                "id": 50458
+            },
+            "ADA": {
+                "id": 50459
+            },
+            "CAD": {
+                "id": 86253
+            },
+            "EUR": {
+                "id": 40212
+            },
+            "NZD": {
+                "id": 76994
+            },
+            "LTC": {
+                "id": 3113
+            },
+            "NOK": {
+                "id": 76992
+            },
+            "AUD": {
+                "id": 86254
+            },
+            "JPY": {
+                "id": 76993
+            },
+            "RUB": {
+                "id": 76996
+            },
+            "DOG": {
+                "id": 3111
+            },
+            "BNB": {
+                "id": 50457
+            },
+            "USDT": {
+                "id": 3114
+            },
+            "USD": {
+                "id": 40213
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:50"
+    },
+    "65": {
+        "id": 2185,
+        "gid": "softswiss\/HeadsTails",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:HeadsTails",
+        "name": "Heads and Tails",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1381",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/HeadsTails\/FUN?play_token=51a6d328-2831-4357-906a-82f59437e398",
+        "origin_demolink": "\/games\/softswiss\/HeadsTails\/1463",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "EUR": {
+                "id": 92179
+            },
+            "BCH": {
+                "id": 3321
+            },
+            "TRX": {
+                "id": 92184
+            },
+            "NZD": {
+                "id": 77039
+            },
+            "BRL": {
+                "id": 77040
+            },
+            "USDT": {
+                "id": 3326
+            },
+            "BNB": {
+                "id": 92183
+            },
+            "DOG": {
+                "id": 3323
+            },
+            "NOK": {
+                "id": 77037
+            },
+            "AUD": {
+                "id": 92182
+            },
+            "CAD": {
+                "id": 92181
+            },
+            "BTC": {
+                "id": 3322
+            },
+            "RUB": {
+                "id": 77041
+            },
+            "ADA": {
+                "id": 92185
+            },
+            "ETH": {
+                "id": 3324
+            },
+            "JPY": {
+                "id": 77038
+            },
+            "XRP": {
+                "id": 28609
+            },
+            "LTC": {
+                "id": 3325
+            },
+            "USD": {
+                "id": 92180
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:50"
+    },
+    "66": {
+        "id": 2186,
+        "gid": "softswiss\/LuckyLadyMoonMegaways",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:LuckyLadyMoonMegaways",
+        "name": "Lucky Lady Moon Megaways",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "49",
+        "popularity": "59",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/LuckyLadyMoonMegaways\/FUN?play_token=6d8c687d-a361-4fae-b8cb-f8bb705eee7b",
+        "origin_demolink": "\/games\/softswiss\/LuckyLadyMoonMegaways\/54719",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "CAD": {
+                "id": 86241
+            },
+            "ADA": {
+                "id": 54718
+            },
+            "XRP": {
+                "id": 54712
+            },
+            "BRL": {
+                "id": 76960
+            },
+            "TRX": {
+                "id": 54715
+            },
+            "USD": {
+                "id": 54803
+            },
+            "BCH": {
+                "id": 54709
+            },
+            "DOG": {
+                "id": 54717
+            },
+            "USDT": {
+                "id": 54710
+            },
+            "BTC": {
+                "id": 54711
+            },
+            "BNB": {
+                "id": 54713
+            },
+            "LTC": {
+                "id": 54716
+            },
+            "NOK": {
+                "id": 76957
+            },
+            "RUB": {
+                "id": 76961
+            },
+            "AUD": {
+                "id": 86242
+            },
+            "JPY": {
+                "id": 76958
+            },
+            "ETH": {
+                "id": 54714
+            },
+            "NZD": {
+                "id": 76959
+            },
+            "EUR": {
+                "id": 54802
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:50"
+    },
+    "67": {
+        "id": 2187,
+        "gid": "softswiss\/LuckyLadyMoon",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:LuckyLadyMoon",
+        "name": "Lady Wolf Moon",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1074",
+        "popularity": "2787",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/LuckyLadyMoon\/FUN?play_token=877ab765-3c46-4c54-90a5-22f2651666ee",
+        "origin_demolink": "\/games\/softswiss\/LuckyLadyMoon\/9236",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "TRX": {
+                "id": 50494
+            },
+            "BTC": {
+                "id": 9233
+            },
+            "BCH": {
+                "id": 9232
+            },
+            "RUB": {
+                "id": 77111
+            },
+            "USDT": {
+                "id": 9238
+            },
+            "USD": {
+                "id": 40273
+            },
+            "JPY": {
+                "id": 77108
+            },
+            "NOK": {
+                "id": 77107
+            },
+            "BRL": {
+                "id": 77110
+            },
+            "AUD": {
+                "id": 86282
+            },
+            "LTC": {
+                "id": 9237
+            },
+            "BNB": {
+                "id": 50493
+            },
+            "DOG": {
+                "id": 9234
+            },
+            "ADA": {
+                "id": 50495
+            },
+            "ETH": {
+                "id": 9235
+            },
+            "NZD": {
+                "id": 77109
+            },
+            "CAD": {
+                "id": 86281
+            },
+            "XRP": {
+                "id": 28627
+            },
+            "EUR": {
+                "id": 40272
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:50"
+    },
+    "69": {
+        "id": 2189,
+        "gid": "softswiss\/LuckyFarmBonanza",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:LuckyFarmBonanza",
+        "name": "Lucky Farm Bonanza",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "2357",
+        "popularity": "5133",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/LuckyFarmBonanza\/FUN?play_token=4a332b5c-72d3-4d2d-a525-b9f14215338e",
+        "origin_demolink": "\/games\/softswiss\/LuckyFarmBonanza\/32817",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "TRX": {
+                "id": 50500
+            },
+            "BRL": {
+                "id": 77125
+            },
+            "NOK": {
+                "id": 77122
+            },
+            "CAD": {
+                "id": 86285
+            },
+            "NZD": {
+                "id": 77124
+            },
+            "EUR": {
+                "id": 40280
+            },
+            "RUB": {
+                "id": 77126
+            },
+            "XRP": {
+                "id": 32813
+            },
+            "LTC": {
+                "id": 32815
+            },
+            "AUD": {
+                "id": 86286
+            },
+            "BNB": {
+                "id": 50499
+            },
+            "DOG": {
+                "id": 32816
+            },
+            "ETH": {
+                "id": 32814
+            },
+            "USD": {
+                "id": 40281
+            },
+            "JPY": {
+                "id": 77123
+            },
+            "BTC": {
+                "id": 32812
+            },
+            "ADA": {
+                "id": 50501
+            },
+            "BCH": {
+                "id": 32810
+            },
+            "USDT": {
+                "id": 32811
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:51"
+    },
+    "72": {
+        "id": 2192,
+        "gid": "softswiss\/LuckyDamaMuerta",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:LuckyDamaMuerta",
+        "name": "Lucky Dama Muerta",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1054",
+        "popularity": "748",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/LuckyDamaMuerta\/FUN?play_token=205cdd8b-4812-46c1-a221-da426b78317c",
+        "origin_demolink": "\/games\/softswiss\/LuckyDamaMuerta\/24733",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "EUR": {
+                "id": 40328
+            },
+            "JPY": {
+                "id": 77208
+            },
+            "NOK": {
+                "id": 77207
+            },
+            "CAD": {
+                "id": 86313
+            },
+            "LTC": {
+                "id": 24734
+            },
+            "DOG": {
+                "id": 24731
+            },
+            "TRX": {
+                "id": 50539
+            },
+            "BTC": {
+                "id": 24730
+            },
+            "USDT": {
+                "id": 24735
+            },
+            "BRL": {
+                "id": 77210
+            },
+            "RUB": {
+                "id": 77211
+            },
+            "AUD": {
+                "id": 86314
+            },
+            "XRP": {
+                "id": 28652
+            },
+            "ADA": {
+                "id": 50540
+            },
+            "NZD": {
+                "id": 77209
+            },
+            "ETH": {
+                "id": 24732
+            },
+            "BNB": {
+                "id": 50538
+            },
+            "USD": {
+                "id": 40329
+            },
+            "BCH": {
+                "id": 24729
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:35",
+        "updated_at": "2022-10-27 22:21:51"
+    },
+    "76": {
+        "id": 2196,
+        "gid": "softswiss\/LuckyBlue",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:LuckyBlue",
+        "name": "Lucky Blue",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1031",
+        "popularity": "1462",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/LuckyBlue\/FUN?play_token=3bdff533-53d4-4a52-9dcb-cf92fdc4cf35",
+        "origin_demolink": "\/games\/softswiss\/LuckyBlue\/804",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "NOK": {
+                "id": 76846
+            },
+            "ETH": {
+                "id": 2555
+            },
+            "AUD": {
+                "id": 86206
+            },
+            "BTC": {
+                "id": 2553
+            },
+            "LTC": {
+                "id": 2556
+            },
+            "JPY": {
+                "id": 76847
+            },
+            "BNB": {
+                "id": 50394
+            },
+            "XRP": {
+                "id": 28564
+            },
+            "USDT": {
+                "id": 2557
+            },
+            "USD": {
+                "id": 40127
+            },
+            "TRX": {
+                "id": 50395
+            },
+            "BCH": {
+                "id": 2552
+            },
+            "NZD": {
+                "id": 76848
+            },
+            "CAD": {
+                "id": 86205
+            },
+            "EUR": {
+                "id": 40126
+            },
+            "DOG": {
+                "id": 2554
+            },
+            "BRL": {
+                "id": 76849
+            },
+            "ADA": {
+                "id": 50396
+            },
+            "RUB": {
+                "id": 76850
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:51"
+    },
+    "80": {
+        "id": 2200,
+        "gid": "softswiss\/JourneyFlirt",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:JourneyFlirt",
+        "name": "Journey Flirt",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1008",
+        "popularity": "1435",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/JourneyFlirt\/FUN?play_token=89ca2938-09a9-4f78-b420-4e8ab84a7133",
+        "origin_demolink": "\/games\/softswiss\/JourneyFlirt\/863",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "XRP": {
+                "id": 28572
+            },
+            "EUR": {
+                "id": 40136
+            },
+            "USDT": {
+                "id": 2635
+            },
+            "BTC": {
+                "id": 2631
+            },
+            "CAD": {
+                "id": 86213
+            },
+            "BRL": {
+                "id": 76879
+            },
+            "BCH": {
+                "id": 2630
+            },
+            "NOK": {
+                "id": 76876
+            },
+            "USD": {
+                "id": 40137
+            },
+            "JPY": {
+                "id": 76877
+            },
+            "NZD": {
+                "id": 76878
+            },
+            "ETH": {
+                "id": 2633
+            },
+            "ADA": {
+                "id": 50405
+            },
+            "AUD": {
+                "id": 86214
+            },
+            "LTC": {
+                "id": 2634
+            },
+            "RUB": {
+                "id": 76880
+            },
+            "BNB": {
+                "id": 50403
+            },
+            "DOG": {
+                "id": 2632
+            },
+            "TRX": {
+                "id": 50404
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:52"
+    },
+    "82": {
+        "id": 2202,
+        "gid": "softswiss\/JokerQueen",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:JokerQueen",
+        "name": "Joker Queen",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "2356",
+        "popularity": "5118",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/JokerQueen\/FUN?play_token=80e55750-26bd-4001-abf9-8a02c14dbbda",
+        "origin_demolink": "\/games\/softswiss\/JokerQueen\/32548",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "USD": {
+                "id": 40289
+            },
+            "EUR": {
+                "id": 40288
+            },
+            "TRX": {
+                "id": 50506
+            },
+            "BTC": {
+                "id": 32543
+            },
+            "ETH": {
+                "id": 32545
+            },
+            "ADA": {
+                "id": 50507
+            },
+            "JPY": {
+                "id": 77138
+            },
+            "NOK": {
+                "id": 77137
+            },
+            "NZD": {
+                "id": 77139
+            },
+            "BCH": {
+                "id": 32541
+            },
+            "DOG": {
+                "id": 32547
+            },
+            "AUD": {
+                "id": 86290
+            },
+            "RUB": {
+                "id": 77141
+            },
+            "CAD": {
+                "id": 86289
+            },
+            "BRL": {
+                "id": 77140
+            },
+            "BNB": {
+                "id": 50505
+            },
+            "USDT": {
+                "id": 32542
+            },
+            "LTC": {
+                "id": 32546
+            },
+            "XRP": {
+                "id": 32544
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:52"
+    },
+    "84": {
+        "id": 2204,
+        "gid": "softswiss\/JohnnyCash",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:JohnnyCash",
+        "name": "Johnny Cash",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "215",
+        "popularity": "2734",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/JohnnyCash\/FUN?play_token=df0ef466-67af-473e-8394-36a690f78157",
+        "origin_demolink": "\/games\/softswiss\/JohnnyCash\/1077",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BTC": {
+                "id": 2881
+            },
+            "EUR": {
+                "id": 40186
+            },
+            "BCH": {
+                "id": 2880
+            },
+            "AUD": {
+                "id": 86234
+            },
+            "JPY": {
+                "id": 76938
+            },
+            "NOK": {
+                "id": 76937
+            },
+            "RUB": {
+                "id": 76941
+            },
+            "USD": {
+                "id": 40187
+            },
+            "NZD": {
+                "id": 76939
+            },
+            "TRX": {
+                "id": 50431
+            },
+            "LTC": {
+                "id": 2884
+            },
+            "XRP": {
+                "id": 28586
+            },
+            "BRL": {
+                "id": 76940
+            },
+            "ETH": {
+                "id": 2883
+            },
+            "BNB": {
+                "id": 50430
+            },
+            "USDT": {
+                "id": 2885
+            },
+            "CAD": {
+                "id": 86233
+            },
+            "ADA": {
+                "id": 50432
+            },
+            "DOG": {
+                "id": 2882
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:53"
+    },
+    "89": {
+        "id": 2209,
+        "gid": "softswiss\/JogoDoBicho",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:JogoDoBicho",
+        "name": "Jogo Do Bicho",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1431",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/JogoDoBicho\/FUN?play_token=95d1b4d8-5a4d-495c-85a9-1eca78c4eca2",
+        "origin_demolink": "\/games\/softswiss\/JogoDoBicho\/1258",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "DOG": {
+                "id": 3093
+            },
+            "NOK": {
+                "id": 76987
+            },
+            "CAD": {
+                "id": 86251
+            },
+            "EUR": {
+                "id": 40210
+            },
+            "XRP": {
+                "id": 28597
+            },
+            "USDT": {
+                "id": 3096
+            },
+            "BRL": {
+                "id": 76990
+            },
+            "NZD": {
+                "id": 76989
+            },
+            "TRX": {
+                "id": 50455
+            },
+            "USD": {
+                "id": 40211
+            },
+            "JPY": {
+                "id": 76988
+            },
+            "ADA": {
+                "id": 50456
+            },
+            "BTC": {
+                "id": 3092
+            },
+            "ETH": {
+                "id": 3094
+            },
+            "AUD": {
+                "id": 86252
+            },
+            "LTC": {
+                "id": 3095
+            },
+            "BCH": {
+                "id": 3091
+            },
+            "BNB": {
+                "id": 50454
+            },
+            "RUB": {
+                "id": 76991
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:53"
+    },
+    "91": {
+        "id": 2211,
+        "gid": "softswiss\/AztecMagic",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:AztecMagic",
+        "name": "Aztec Magic",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "433",
+        "popularity": "915",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/AztecMagic\/FUN?play_token=4210d1bf-3a64-4d6c-b211-87d5dde3edf9",
+        "origin_demolink": "\/games\/softswiss\/AztecMagic\/1737",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BCH": {
+                "id": 3575
+            },
+            "XRP": {
+                "id": 28623
+            },
+            "TRX": {
+                "id": 50488
+            },
+            "NZD": {
+                "id": 77094
+            },
+            "BTC": {
+                "id": 3576
+            },
+            "USDT": {
+                "id": 3580
+            },
+            "USD": {
+                "id": 40267
+            },
+            "BNB": {
+                "id": 50487
+            },
+            "DOG": {
+                "id": 3577
+            },
+            "NOK": {
+                "id": 77092
+            },
+            "AUD": {
+                "id": 86276
+            },
+            "BRL": {
+                "id": 77095
+            },
+            "CAD": {
+                "id": 86275
+            },
+            "ETH": {
+                "id": 3578
+            },
+            "RUB": {
+                "id": 77096
+            },
+            "LTC": {
+                "id": 3579
+            },
+            "JPY": {
+                "id": 77093
+            },
+            "ADA": {
+                "id": 50489
+            },
+            "EUR": {
+                "id": 40266
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:53"
+    },
+    "95": {
+        "id": 2215,
+        "gid": "softswiss\/HeadsandTailsXY",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:HeadsandTailsXY",
+        "name": "Heads and Tails XY",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "5130",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/HeadsTailsXY\/FUN?play_token=5acab2ae-34da-44fe-80de-6699f55c21cd",
+        "origin_demolink": "\/games\/softswiss\/HeadsandTailsXY\/32491",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "TRX": {
+                "id": 50377
+            },
+            "BCH": {
+                "id": 32484
+            },
+            "DOG": {
+                "id": 32490
+            },
+            "LTC": {
+                "id": 32489
+            },
+            "NZD": {
+                "id": 76788
+            },
+            "CAD": {
+                "id": 86193
+            },
+            "ADA": {
+                "id": 50378
+            },
+            "BNB": {
+                "id": 50376
+            },
+            "JPY": {
+                "id": 76787
+            },
+            "ETH": {
+                "id": 32488
+            },
+            "BRL": {
+                "id": 76789
+            },
+            "RUB": {
+                "id": 76790
+            },
+            "EUR": {
+                "id": 40108
+            },
+            "BTC": {
+                "id": 32486
+            },
+            "XRP": {
+                "id": 32487
+            },
+            "NOK": {
+                "id": 76786
+            },
+            "USDT": {
+                "id": 32485
+            },
+            "USD": {
+                "id": 40109
+            },
+            "AUD": {
+                "id": 86194
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:54"
+    },
+    "98": {
+        "id": 2218,
+        "gid": "softswiss\/HalloweenBonanza",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:HalloweenBonanza",
+        "name": "Halloween Bonanza",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1890",
+        "popularity": "355",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/HalloweenBonanza\/FUN?play_token=dbb59523-9888-40a6-817f-044eacb77003",
+        "origin_demolink": "\/games\/softswiss\/HalloweenBonanza\/62628",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "USD": {
+                "id": 62611
+            },
+            "BNB": {
+                "id": 62620
+            },
+            "CAD": {
+                "id": 62612
+            },
+            "USDT": {
+                "id": 62615
+            },
+            "NZD": {
+                "id": 62621
+            },
+            "JPY": {
+                "id": 62618
+            },
+            "TRX": {
+                "id": 62623
+            },
+            "ADA": {
+                "id": 62627
+            },
+            "NOK": {
+                "id": 62614
+            },
+            "ETH": {
+                "id": 62622
+            },
+            "LTC": {
+                "id": 62624
+            },
+            "EUR": {
+                "id": 62610
+            },
+            "RUB": {
+                "id": 76896
+            },
+            "BTC": {
+                "id": 62617
+            },
+            "BRL": {
+                "id": 62626
+            },
+            "AUD": {
+                "id": 62616
+            },
+            "DOG": {
+                "id": 62625
+            },
+            "BCH": {
+                "id": 62613
+            },
+            "XRP": {
+                "id": 62619
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:54"
+    },
+    "103": {
+        "id": 2223,
+        "gid": "softswiss\/GoldRushWithJohnny",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:GoldRushWithJohnny",
+        "name": "Gold Rush with Johnny Cash",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1631",
+        "popularity": "820",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/GoldRushWithJohnny\/FUN?play_token=f309b13b-bb7a-4705-b71e-96cb9d01097c",
+        "origin_demolink": "\/games\/softswiss\/GoldRushWithJohnny\/53539",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BCH": {
+                "id": 53529
+            },
+            "ADA": {
+                "id": 53538
+            },
+            "DOG": {
+                "id": 53537
+            },
+            "AUD": {
+                "id": 86280
+            },
+            "TRX": {
+                "id": 53535
+            },
+            "XRP": {
+                "id": 53532
+            },
+            "ETH": {
+                "id": 53534
+            },
+            "CAD": {
+                "id": 86279
+            },
+            "LTC": {
+                "id": 53536
+            },
+            "JPY": {
+                "id": 77103
+            },
+            "EUR": {
+                "id": 53527
+            },
+            "BTC": {
+                "id": 53531
+            },
+            "NZD": {
+                "id": 77104
+            },
+            "NOK": {
+                "id": 77102
+            },
+            "BNB": {
+                "id": 53533
+            },
+            "BRL": {
+                "id": 77105
+            },
+            "USDT": {
+                "id": 53530
+            },
+            "USD": {
+                "id": 53528
+            },
+            "RUB": {
+                "id": 77106
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:55"
+    },
+    "105": {
+        "id": 2225,
+        "gid": "softswiss\/FruitMillion",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:FruitMillion",
+        "name": "Fruit Million",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "258",
+        "popularity": "1015",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/FruitMillion\/FUN?play_token=e1cacc26-5121-4dd7-a50b-4378b257332c",
+        "origin_demolink": "\/games\/softswiss\/FruitMillion\/9862",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "XRP": {
+                "id": 28637
+            },
+            "JPY": {
+                "id": 77148
+            },
+            "BRL": {
+                "id": 77150
+            },
+            "BNB": {
+                "id": 50511
+            },
+            "AUD": {
+                "id": 86294
+            },
+            "EUR": {
+                "id": 40294
+            },
+            "ADA": {
+                "id": 50513
+            },
+            "USDT": {
+                "id": 9864
+            },
+            "ETH": {
+                "id": 9861
+            },
+            "NZD": {
+                "id": 77149
+            },
+            "TRX": {
+                "id": 50512
+            },
+            "RUB": {
+                "id": 77151
+            },
+            "CAD": {
+                "id": 86293
+            },
+            "DOG": {
+                "id": 9860
+            },
+            "BCH": {
+                "id": 9858
+            },
+            "LTC": {
+                "id": 9863
+            },
+            "USD": {
+                "id": 40295
+            },
+            "BTC": {
+                "id": 9859
+            },
+            "NOK": {
+                "id": 77147
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:55"
+    },
+    "107": {
+        "id": 2227,
+        "gid": "softswiss\/FrenchRoulette",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:FrenchRoulette",
+        "name": "French Roulette",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1324",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/FrenchRoulette\/FUN?play_token=4386fc29-adba-41c2-a2b7-1373182f89dd",
+        "origin_demolink": "\/games\/softswiss\/FrenchRoulette\/1350",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "JPY": {
+                "id": 77023
+            },
+            "ETH": {
+                "id": 3208
+            },
+            "LTC": {
+                "id": 3209
+            },
+            "XRP": {
+                "id": 28602
+            },
+            "NOK": {
+                "id": 77022
+            },
+            "AUD": {
+                "id": 86260
+            },
+            "ADA": {
+                "id": 50468
+            },
+            "BRL": {
+                "id": 77025
+            },
+            "NZD": {
+                "id": 77024
+            },
+            "USD": {
+                "id": 40227
+            },
+            "RUB": {
+                "id": 77026
+            },
+            "CAD": {
+                "id": 86259
+            },
+            "TRX": {
+                "id": 50467
+            },
+            "DOG": {
+                "id": 3207
+            },
+            "BCH": {
+                "id": 3205
+            },
+            "EUR": {
+                "id": 40226
+            },
+            "BNB": {
+                "id": 50466
+            },
+            "USDT": {
+                "id": 3210
+            },
+            "BTC": {
+                "id": 3206
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:55"
+    },
+    "109": {
+        "id": 2229,
+        "gid": "softswiss\/FourLuckyDiamonds",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:FourLuckyDiamonds",
+        "name": "Four Lucky Diamonds",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "182",
+        "popularity": "2822",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/FourLuckyDiamonds\/FUN?play_token=9b9cb8e0-b052-405c-8712-5320261c36a2",
+        "origin_demolink": "\/games\/softswiss\/FourLuckyDiamonds\/13228",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "DOG": {
+                "id": 13226
+            },
+            "CAD": {
+                "id": 86199
+            },
+            "BNB": {
+                "id": 50385
+            },
+            "XRP": {
+                "id": 28557
+            },
+            "LTC": {
+                "id": 13229
+            },
+            "ETH": {
+                "id": 13227
+            },
+            "USDT": {
+                "id": 13230
+            },
+            "TRX": {
+                "id": 50386
+            },
+            "NZD": {
+                "id": 76818
+            },
+            "NOK": {
+                "id": 76816
+            },
+            "EUR": {
+                "id": 40118
+            },
+            "BTC": {
+                "id": 13225
+            },
+            "USD": {
+                "id": 40119
+            },
+            "AUD": {
+                "id": 86200
+            },
+            "RUB": {
+                "id": 76820
+            },
+            "ADA": {
+                "id": 50387
+            },
+            "JPY": {
+                "id": 76817
+            },
+            "BCH": {
+                "id": 13224
+            },
+            "BRL": {
+                "id": 76819
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:56"
+    },
+    "111": {
+        "id": 2231,
+        "gid": "softswiss\/FourLuckyClover",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:FourLuckyClover",
+        "name": "Four Lucky Clover",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "237",
+        "popularity": "1322",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/FourLuckyClover\/FUN?play_token=506174b6-acf5-49d4-8d9d-900bf72914a8",
+        "origin_demolink": "\/games\/softswiss\/FourLuckyClover\/674",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "DOG": {
+                "id": 2355
+            },
+            "NOK": {
+                "id": 76771
+            },
+            "JPY": {
+                "id": 76772
+            },
+            "BTC": {
+                "id": 2354
+            },
+            "XRP": {
+                "id": 28544
+            },
+            "EUR": {
+                "id": 40094
+            },
+            "LTC": {
+                "id": 2357
+            },
+            "ADA": {
+                "id": 50369
+            },
+            "TRX": {
+                "id": 50368
+            },
+            "BCH": {
+                "id": 2353
+            },
+            "USDT": {
+                "id": 2358
+            },
+            "BNB": {
+                "id": 50367
+            },
+            "USD": {
+                "id": 40095
+            },
+            "ETH": {
+                "id": 2356
+            },
+            "AUD": {
+                "id": 86188
+            },
+            "RUB": {
+                "id": 76775
+            },
+            "NZD": {
+                "id": 76773
+            },
+            "CAD": {
+                "id": 86187
+            },
+            "BRL": {
+                "id": 76774
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:56"
+    },
+    "113": {
+        "id": 2233,
+        "gid": "softswiss\/FortyFruityMillion",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:FortyFruityMillion",
+        "name": "Forty Fruity Million",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1632",
+        "popularity": "7310",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/FortyFruityMillion\/FUN?play_token=438d1e47-64f2-4f8c-aee6-49ee40bc0024",
+        "origin_demolink": "\/games\/softswiss\/FortyFruityMillion\/60278",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "USDT": {
+                "id": 60269
+            },
+            "AUD": {
+                "id": 86298
+            },
+            "DOG": {
+                "id": 60276
+            },
+            "BRL": {
+                "id": 77160
+            },
+            "USD": {
+                "id": 60267
+            },
+            "ADA": {
+                "id": 60277
+            },
+            "BCH": {
+                "id": 60268
+            },
+            "NOK": {
+                "id": 77157
+            },
+            "JPY": {
+                "id": 77158
+            },
+            "XRP": {
+                "id": 60271
+            },
+            "BTC": {
+                "id": 60270
+            },
+            "NZD": {
+                "id": 77159
+            },
+            "LTC": {
+                "id": 60275
+            },
+            "TRX": {
+                "id": 60274
+            },
+            "ETH": {
+                "id": 60273
+            },
+            "CAD": {
+                "id": 86297
+            },
+            "EUR": {
+                "id": 60266
+            },
+            "BNB": {
+                "id": 60272
+            },
+            "RUB": {
+                "id": 77161
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:56"
+    },
+    "115": {
+        "id": 2235,
+        "gid": "softswiss\/Domnitors",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:Domnitors",
+        "name": "Domnitors",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "712",
+        "popularity": "1242",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/Domnitors\/FUN?play_token=b33c28d0-c474-41ca-ac50-8b7af9959454",
+        "origin_demolink": "\/games\/softswiss\/Domnitors\/2109",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "XRP": {
+                "id": 92190
+            },
+            "BNB": {
+                "id": 92191
+            },
+            "RUB": {
+                "id": 77181
+            },
+            "NOK": {
+                "id": 77177
+            },
+            "LTC": {
+                "id": 4053
+            },
+            "ETH": {
+                "id": 4052
+            },
+            "BTC": {
+                "id": 4050
+            },
+            "EUR": {
+                "id": 92186
+            },
+            "NZD": {
+                "id": 77179
+            },
+            "DOG": {
+                "id": 4051
+            },
+            "BRL": {
+                "id": 77180
+            },
+            "ADA": {
+                "id": 92193
+            },
+            "USD": {
+                "id": 92187
+            },
+            "BCH": {
+                "id": 4049
+            },
+            "AUD": {
+                "id": 92189
+            },
+            "TRX": {
+                "id": 92192
+            },
+            "CAD": {
+                "id": 92188
+            },
+            "JPY": {
+                "id": 77178
+            },
+            "USDT": {
+                "id": 4054
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:57"
+    },
+    "117": {
+        "id": 2237,
+        "gid": "softswiss\/FireLightning",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:FireLightning",
+        "name": "Fire Lightning",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "822",
+        "popularity": "534",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/FireLightning\/FUN?play_token=88267681-7c01-49e7-bdb5-47d20a9ec8fa",
+        "origin_demolink": "\/games\/softswiss\/FireLightning\/1832",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "EUR": {
+                "id": 40278
+            },
+            "AUD": {
+                "id": 86284
+            },
+            "CAD": {
+                "id": 86283
+            },
+            "ADA": {
+                "id": 50498
+            },
+            "NOK": {
+                "id": 77117
+            },
+            "BRL": {
+                "id": 77120
+            },
+            "BNB": {
+                "id": 50496
+            },
+            "USD": {
+                "id": 40279
+            },
+            "LTC": {
+                "id": 3719
+            },
+            "DOG": {
+                "id": 3717
+            },
+            "NZD": {
+                "id": 77119
+            },
+            "BCH": {
+                "id": 3715
+            },
+            "XRP": {
+                "id": 28631
+            },
+            "USDT": {
+                "id": 3720
+            },
+            "BTC": {
+                "id": 3716
+            },
+            "ETH": {
+                "id": 3718
+            },
+            "TRX": {
+                "id": 50497
+            },
+            "JPY": {
+                "id": 77118
+            },
+            "RUB": {
+                "id": 77121
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:57"
+    },
+    "119": {
+        "id": 2239,
+        "gid": "softswiss\/FantasyPark",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:FantasyPark",
+        "name": "Fantasy Park",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "798",
+        "popularity": "1302",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/FantasyPark\/FUN?play_token=6cd7715c-cdd4-43ed-b84e-700b4c2ce8d4",
+        "origin_demolink": "\/games\/softswiss\/FantasyPark\/1557",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "XRP": {
+                "id": 28614
+            },
+            "DOG": {
+                "id": 3414
+            },
+            "TRX": {
+                "id": 50476
+            },
+            "BNB": {
+                "id": 50475
+            },
+            "ADA": {
+                "id": 50477
+            },
+            "EUR": {
+                "id": 40244
+            },
+            "CAD": {
+                "id": 86265
+            },
+            "BTC": {
+                "id": 3413
+            },
+            "ETH": {
+                "id": 3415
+            },
+            "BRL": {
+                "id": 77060
+            },
+            "LTC": {
+                "id": 3416
+            },
+            "USDT": {
+                "id": 3417
+            },
+            "NZD": {
+                "id": 77059
+            },
+            "NOK": {
+                "id": 77057
+            },
+            "USD": {
+                "id": 40245
+            },
+            "RUB": {
+                "id": 77061
+            },
+            "BCH": {
+                "id": 3412
+            },
+            "JPY": {
+                "id": 77058
+            },
+            "AUD": {
+                "id": 86266
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:57"
+    },
+    "120": {
+        "id": 2240,
+        "gid": "softswiss\/HiLoSwitch",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:HiLoSwitch",
+        "name": "Hi-Lo Switch",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "506",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/HiLoSwitch\/FUN?play_token=f7473783-40fb-4632-b4f2-d9b38d53f5ea",
+        "origin_demolink": "\/games\/softswiss\/HiLoSwitch\/1945",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BCH": {
+                "id": 3837
+            },
+            "DOG": {
+                "id": 3839
+            },
+            "USDT": {
+                "id": 3842
+            },
+            "TRX": {
+                "id": 50509
+            },
+            "BRL": {
+                "id": 77145
+            },
+            "AUD": {
+                "id": 86292
+            },
+            "BNB": {
+                "id": 50508
+            },
+            "EUR": {
+                "id": 40292
+            },
+            "NOK": {
+                "id": 77142
+            },
+            "USD": {
+                "id": 40293
+            },
+            "ADA": {
+                "id": 50510
+            },
+            "BTC": {
+                "id": 3838
+            },
+            "ETH": {
+                "id": 3840
+            },
+            "LTC": {
+                "id": 3841
+            },
+            "CAD": {
+                "id": 86291
+            },
+            "RUB": {
+                "id": 77146
+            },
+            "XRP": {
+                "id": 28636
+            },
+            "NZD": {
+                "id": 77144
+            },
+            "JPY": {
+                "id": 77143
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:57"
+    },
+    "123": {
+        "id": 2243,
+        "gid": "softswiss\/ElvisFrogTrueways",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:ElvisFrogTrueways",
+        "name": "Elvis Frog TRUEWAYS",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "1808",
+        "popularity": "31",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/ElvisFrogTrueways\/FUN?play_token=5460b2a3-bdb9-4463-be69-7c13f4074399",
+        "origin_demolink": "\/games\/softswiss\/ElvisFrogTrueways\/93468",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "EUR": {
+                "id": 93448
+            },
+            "USDT": {
+                "id": 93453
+            },
+            "NZD": {
+                "id": 93460
+            },
+            "BNB": {
+                "id": 93458
+            },
+            "DOG": {
+                "id": 93464
+            },
+            "CAD": {
+                "id": 93450
+            },
+            "USD": {
+                "id": 93449
+            },
+            "BCH": {
+                "id": 93451
+            },
+            "RUB": {
+                "id": 93469
+            },
+            "JPY": {
+                "id": 93456
+            },
+            "NEO": {
+                "id": 93459
+            },
+            "BRL": {
+                "id": 93465
+            },
+            "XRP": {
+                "id": 93457
+            },
+            "BTC": {
+                "id": 93455
+            },
+            "LTC": {
+                "id": 93463
+            },
+            "TRX": {
+                "id": 93462
+            },
+            "AUD": {
+                "id": 93454
+            },
+            "NOK": {
+                "id": 93452
+            },
+            "ETH": {
+                "id": 93461
+            },
+            "USDC": {
+                "id": 93466
+            },
+            "ADA": {
+                "id": 93467
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:58"
+    },
+    "124": {
+        "id": 2244,
+        "gid": "softswiss\/EuropeanRoulette",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:EuropeanRoulette",
+        "name": "European Roulette",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1291",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/EuropeanRoulette\/FUN?play_token=a6528e1a-3621-4378-a65f-58dc96dca5dd",
+        "origin_demolink": "\/games\/softswiss\/EuropeanRoulette\/777",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "LTC": {
+                "id": 2514
+            },
+            "EUR": {
+                "id": 40120
+            },
+            "BRL": {
+                "id": 76824
+            },
+            "TRX": {
+                "id": 50389
+            },
+            "RUB": {
+                "id": 76825
+            },
+            "CAD": {
+                "id": 86201
+            },
+            "USD": {
+                "id": 40121
+            },
+            "BCH": {
+                "id": 2510
+            },
+            "USDT": {
+                "id": 2515
+            },
+            "AUD": {
+                "id": 86202
+            },
+            "JPY": {
+                "id": 76822
+            },
+            "NZD": {
+                "id": 76823
+            },
+            "NOK": {
+                "id": 76821
+            },
+            "ADA": {
+                "id": 50390
+            },
+            "BNB": {
+                "id": 50388
+            },
+            "ETH": {
+                "id": 2513
+            },
+            "BTC": {
+                "id": 2511
+            },
+            "DOG": {
+                "id": 2512
+            },
+            "XRP": {
+                "id": 28560
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:36",
+        "updated_at": "2022-10-27 22:21:58"
+    },
+    "125": {
+        "id": 2245,
+        "gid": "softswiss\/ElvisFroginVegas",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:ElvisFroginVegas",
+        "name": "Elvis Frog in Vegas",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "17",
+        "popularity": "34",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/ElvisFrog\/FUN?play_token=29e83f23-c1fc-4d3c-a078-87958f07ce05",
+        "origin_demolink": "\/games\/softswiss\/ElvisFroginVegas\/1027",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "NZD": {
+                "id": 76909
+            },
+            "EUR": {
+                "id": 40170
+            },
+            "BNB": {
+                "id": 50415
+            },
+            "BTC": {
+                "id": 2796
+            },
+            "NOK": {
+                "id": 76907
+            },
+            "AUD": {
+                "id": 86222
+            },
+            "XRP": {
+                "id": 28581
+            },
+            "RUB": {
+                "id": 76911
+            },
+            "BRL": {
+                "id": 76910
+            },
+            "DOG": {
+                "id": 2797
+            },
+            "BCH": {
+                "id": 2795
+            },
+            "USD": {
+                "id": 40171
+            },
+            "ADA": {
+                "id": 50417
+            },
+            "ETH": {
+                "id": 2798
+            },
+            "USDT": {
+                "id": 2800
+            },
+            "TRX": {
+                "id": 50416
+            },
+            "JPY": {
+                "id": 76908
+            },
+            "CAD": {
+                "id": 86221
+            },
+            "LTC": {
+                "id": 2799
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:21:58"
+    },
+    "128": {
+        "id": 2248,
+        "gid": "softswiss\/DragonsGold100",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:DragonsGold100",
+        "name": "Dragon's Gold 100",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "756",
+        "popularity": "619",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/DragonsGold100\/FUN?play_token=64f19f3d-dce7-4048-8506-b766945cd803",
+        "origin_demolink": "\/games\/softswiss\/DragonsGold100\/24712",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BNB": {
+                "id": 50469
+            },
+            "BRL": {
+                "id": 77045
+            },
+            "DOG": {
+                "id": 24710
+            },
+            "USDT": {
+                "id": 24714
+            },
+            "BTC": {
+                "id": 24709
+            },
+            "CAD": {
+                "id": 86261
+            },
+            "NZD": {
+                "id": 77044
+            },
+            "NOK": {
+                "id": 77042
+            },
+            "TRX": {
+                "id": 50470
+            },
+            "EUR": {
+                "id": 40236
+            },
+            "ADA": {
+                "id": 50471
+            },
+            "XRP": {
+                "id": 28612
+            },
+            "AUD": {
+                "id": 86262
+            },
+            "ETH": {
+                "id": 24711
+            },
+            "BCH": {
+                "id": 24708
+            },
+            "RUB": {
+                "id": 77046
+            },
+            "LTC": {
+                "id": 24713
+            },
+            "JPY": {
+                "id": 77043
+            },
+            "USD": {
+                "id": 40237
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:21:59"
+    },
+    "130": {
+        "id": 2250,
+        "gid": "softswiss\/DoubleExposure",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:DoubleExposure",
+        "name": "Double Exposure",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1243",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/DoubleExposure\/FUN?play_token=5cdbdd5d-8474-4ef3-808b-54b64bf0aec1",
+        "origin_demolink": "\/games\/softswiss\/DoubleExposure\/1966",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "ADA": {
+                "id": 50516
+            },
+            "DOG": {
+                "id": 3858
+            },
+            "NOK": {
+                "id": 77152
+            },
+            "AUD": {
+                "id": 86296
+            },
+            "USD": {
+                "id": 40297
+            },
+            "ETH": {
+                "id": 3859
+            },
+            "BTC": {
+                "id": 3857
+            },
+            "NZD": {
+                "id": 77154
+            },
+            "BCH": {
+                "id": 3856
+            },
+            "USDT": {
+                "id": 3861
+            },
+            "LTC": {
+                "id": 3860
+            },
+            "TRX": {
+                "id": 50515
+            },
+            "BNB": {
+                "id": 50514
+            },
+            "RUB": {
+                "id": 77156
+            },
+            "CAD": {
+                "id": 86295
+            },
+            "XRP": {
+                "id": 28639
+            },
+            "BRL": {
+                "id": 77155
+            },
+            "EUR": {
+                "id": 40296
+            },
+            "JPY": {
+                "id": 77153
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:21:59"
+    },
+    "133": {
+        "id": 2253,
+        "gid": "softswiss\/BeerBonanza",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:BeerBonanza",
+        "name": "Beer Bonanza",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "77",
+        "popularity": "436",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/BeerBonanza\/FUN?play_token=824ee4b7-5807-4b5b-a579-4be69500efb9",
+        "origin_demolink": "\/games\/softswiss\/BeerBonanza\/60567",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BRL": {
+                "id": 76894
+            },
+            "BNB": {
+                "id": 60561
+            },
+            "ADA": {
+                "id": 60566
+            },
+            "NZD": {
+                "id": 76893
+            },
+            "USD": {
+                "id": 60556
+            },
+            "USDT": {
+                "id": 60558
+            },
+            "LTC": {
+                "id": 60564
+            },
+            "DOG": {
+                "id": 60565
+            },
+            "TRX": {
+                "id": 60563
+            },
+            "NOK": {
+                "id": 76891
+            },
+            "ETH": {
+                "id": 60562
+            },
+            "JPY": {
+                "id": 76892
+            },
+            "BTC": {
+                "id": 60559
+            },
+            "RUB": {
+                "id": 76895
+            },
+            "BCH": {
+                "id": 60557
+            },
+            "EUR": {
+                "id": 60555
+            },
+            "AUD": {
+                "id": 86220
+            },
+            "XRP": {
+                "id": 60560
+            },
+            "CAD": {
+                "id": 86219
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:21:59"
+    },
+    "135": {
+        "id": 2255,
+        "gid": "softswiss\/CloverBonanza",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:CloverBonanza",
+        "name": "Clover Bonanza",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "2495",
+        "popularity": "887",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/CloverBonanza\/FUN?play_token=0f77bf5c-1538-4eb3-89e6-5d9378669edb",
+        "origin_demolink": "\/games\/softswiss\/CloverBonanza\/32169",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "LTC": {
+                "id": 32167
+            },
+            "USDT": {
+                "id": 32163
+            },
+            "BCH": {
+                "id": 32162
+            },
+            "CAD": {
+                "id": 86299
+            },
+            "BNB": {
+                "id": 50517
+            },
+            "BRL": {
+                "id": 77165
+            },
+            "TRX": {
+                "id": 50518
+            },
+            "DOG": {
+                "id": 32168
+            },
+            "USD": {
+                "id": 40307
+            },
+            "NOK": {
+                "id": 77162
+            },
+            "NZD": {
+                "id": 77164
+            },
+            "BTC": {
+                "id": 32164
+            },
+            "ETH": {
+                "id": 32166
+            },
+            "ADA": {
+                "id": 50519
+            },
+            "AUD": {
+                "id": 86300
+            },
+            "XRP": {
+                "id": 32165
+            },
+            "RUB": {
+                "id": 77166
+            },
+            "EUR": {
+                "id": 40306
+            },
+            "JPY": {
+                "id": 77163
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:21:59"
+    },
+    "137": {
+        "id": 2257,
+        "gid": "softswiss\/DeepSea",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:DeepSea",
+        "name": "Deep Sea",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "200",
+        "popularity": "905",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/DeepSea\/FUN?play_token=c5868d4c-3f73-4008-9ebc-780ecce2fede",
+        "origin_demolink": "\/games\/softswiss\/DeepSea\/857",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "LTC": {
+                "id": 2628
+            },
+            "AUD": {
+                "id": 86212
+            },
+            "JPY": {
+                "id": 76872
+            },
+            "EUR": {
+                "id": 40134
+            },
+            "NOK": {
+                "id": 76871
+            },
+            "CAD": {
+                "id": 86211
+            },
+            "BRL": {
+                "id": 76874
+            },
+            "BTC": {
+                "id": 2625
+            },
+            "USDT": {
+                "id": 2629
+            },
+            "BCH": {
+                "id": 2624
+            },
+            "TRX": {
+                "id": 50401
+            },
+            "ETH": {
+                "id": 2627
+            },
+            "NZD": {
+                "id": 76873
+            },
+            "DOG": {
+                "id": 2626
+            },
+            "BNB": {
+                "id": 50400
+            },
+            "USD": {
+                "id": 40135
+            },
+            "RUB": {
+                "id": 76875
+            },
+            "ADA": {
+                "id": 50402
+            },
+            "XRP": {
+                "id": 28571
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:00"
+    },
+    "139": {
+        "id": 2259,
+        "gid": "softswiss\/DigDigDigger",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:DigDigDigger",
+        "name": "Dig Dig Digger",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "248",
+        "popularity": "87",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/DigDigDigger\/FUN?play_token=daf18668-428e-48c6-80a6-5a14f4149c84",
+        "origin_demolink": "\/games\/softswiss\/DigDigDigger\/18909",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "TRX": {
+                "id": 50479
+            },
+            "LTC": {
+                "id": 18910
+            },
+            "BRL": {
+                "id": 77070
+            },
+            "BTC": {
+                "id": 18906
+            },
+            "AUD": {
+                "id": 86268
+            },
+            "RUB": {
+                "id": 77071
+            },
+            "CAD": {
+                "id": 86267
+            },
+            "BNB": {
+                "id": 50478
+            },
+            "DOG": {
+                "id": 18907
+            },
+            "ADA": {
+                "id": 50480
+            },
+            "USDT": {
+                "id": 18911
+            },
+            "BCH": {
+                "id": 18905
+            },
+            "ETH": {
+                "id": 18908
+            },
+            "JPY": {
+                "id": 77068
+            },
+            "NZD": {
+                "id": 77069
+            },
+            "USD": {
+                "id": 40251
+            },
+            "NOK": {
+                "id": 77067
+            },
+            "XRP": {
+                "id": 28617
+            },
+            "EUR": {
+                "id": 40250
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:00"
+    },
+    "141": {
+        "id": 2261,
+        "gid": "softswiss\/CaribbeanPoker",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:CaribbeanPoker",
+        "name": "Caribbean Poker",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1169",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/CaribbeanPoker\/FUN?play_token=e12545f3-8981-407d-9234-641eb4410e82",
+        "origin_demolink": "\/games\/softswiss\/CaribbeanPoker\/2129",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "AUD": {
+                "id": 86308
+            },
+            "LTC": {
+                "id": 4083
+            },
+            "NZD": {
+                "id": 77194
+            },
+            "XRP": {
+                "id": 28645
+            },
+            "ADA": {
+                "id": 50531
+            },
+            "BRL": {
+                "id": 77195
+            },
+            "BCH": {
+                "id": 4079
+            },
+            "TRX": {
+                "id": 50530
+            },
+            "EUR": {
+                "id": 40316
+            },
+            "NOK": {
+                "id": 77192
+            },
+            "DOG": {
+                "id": 4081
+            },
+            "CAD": {
+                "id": 86307
+            },
+            "BTC": {
+                "id": 4080
+            },
+            "BNB": {
+                "id": 50529
+            },
+            "RUB": {
+                "id": 77196
+            },
+            "ETH": {
+                "id": 4082
+            },
+            "USDT": {
+                "id": 4084
+            },
+            "USD": {
+                "id": 40317
+            },
+            "JPY": {
+                "id": 77193
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:00"
+    },
+    "143": {
+        "id": 2263,
+        "gid": "softswiss\/CherryFiesta",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:CherryFiesta",
+        "name": "Cherry Fiesta",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "596",
+        "popularity": "1193",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/CherryFiesta\/FUN?play_token=40a18815-f283-455c-8ea4-72cfd2319e91",
+        "origin_demolink": "\/games\/softswiss\/CherryFiesta\/1884",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BRL": {
+                "id": 77135
+            },
+            "EUR": {
+                "id": 40286
+            },
+            "AUD": {
+                "id": 86288
+            },
+            "ADA": {
+                "id": 50504
+            },
+            "BCH": {
+                "id": 3787
+            },
+            "RUB": {
+                "id": 77136
+            },
+            "CAD": {
+                "id": 86287
+            },
+            "BNB": {
+                "id": 50502
+            },
+            "NOK": {
+                "id": 77132
+            },
+            "USD": {
+                "id": 40287
+            },
+            "TRX": {
+                "id": 50503
+            },
+            "LTC": {
+                "id": 3791
+            },
+            "BTC": {
+                "id": 3788
+            },
+            "JPY": {
+                "id": 77133
+            },
+            "USDT": {
+                "id": 3792
+            },
+            "DOG": {
+                "id": 3789
+            },
+            "ETH": {
+                "id": 3790
+            },
+            "NZD": {
+                "id": 77134
+            },
+            "XRP": {
+                "id": 28633
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:00"
+    },
+    "145": {
+        "id": 2265,
+        "gid": "softswiss\/CrazyStarter",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:CrazyStarter",
+        "name": "Crazy Starter",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "621",
+        "popularity": "1213",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/CrazyStarter\/FUN?play_token=e707b52e-36ec-4692-b3d0-f4e71e973f01",
+        "origin_demolink": "\/games\/softswiss\/CrazyStarter\/2246",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "AUD": {
+                "id": 92255
+            },
+            "BCH": {
+                "id": 4249
+            },
+            "BTC": {
+                "id": 4250
+            },
+            "JPY": {
+                "id": 77233
+            },
+            "CAD": {
+                "id": 92254
+            },
+            "NZD": {
+                "id": 77234
+            },
+            "BRL": {
+                "id": 77235
+            },
+            "LTC": {
+                "id": 4253
+            },
+            "USDT": {
+                "id": 4254
+            },
+            "ETH": {
+                "id": 4252
+            },
+            "DOG": {
+                "id": 4251
+            },
+            "TRX": {
+                "id": 92258
+            },
+            "USD": {
+                "id": 92253
+            },
+            "EUR": {
+                "id": 92252
+            },
+            "ADA": {
+                "id": 92259
+            },
+            "XRP": {
+                "id": 92256
+            },
+            "RUB": {
+                "id": 77236
+            },
+            "NOK": {
+                "id": 77232
+            },
+            "BNB": {
+                "id": 92257
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:01"
+    },
+    "147": {
+        "id": 2267,
+        "gid": "softswiss\/CasinoHoldem",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:CasinoHoldem",
+        "name": "Casino Hold`em",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "543",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/CasinoHoldem\/FUN?play_token=4a52bf3e-291b-44de-a67c-2773b355714f",
+        "origin_demolink": "\/games\/softswiss\/CasinoHoldem\/2141",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "EUR": {
+                "id": 40320
+            },
+            "LTC": {
+                "id": 4095
+            },
+            "XRP": {
+                "id": 28647
+            },
+            "DOG": {
+                "id": 4093
+            },
+            "TRX": {
+                "id": 50533
+            },
+            "NOK": {
+                "id": 77197
+            },
+            "JPY": {
+                "id": 77198
+            },
+            "ADA": {
+                "id": 50534
+            },
+            "CAD": {
+                "id": 86309
+            },
+            "NZD": {
+                "id": 77199
+            },
+            "AUD": {
+                "id": 86310
+            },
+            "USD": {
+                "id": 40321
+            },
+            "USDT": {
+                "id": 4096
+            },
+            "BTC": {
+                "id": 4092
+            },
+            "BRL": {
+                "id": 77200
+            },
+            "BNB": {
+                "id": 50532
+            },
+            "BCH": {
+                "id": 4091
+            },
+            "RUB": {
+                "id": 77201
+            },
+            "ETH": {
+                "id": 4094
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:02"
+    },
+    "149": {
+        "id": 2269,
+        "gid": "softswiss\/AlohaKingElvis",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:AlohaKingElvis",
+        "name": "Aloha King Elvis",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "161",
+        "popularity": "304",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/AlohaKingElvis\/FUN?play_token=45eee671-04fa-4084-8f5e-315e24923477",
+        "origin_demolink": "\/games\/softswiss\/AlohaKingElvis\/24698",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "DOG": {
+                "id": 24696
+            },
+            "LTC": {
+                "id": 24699
+            },
+            "ADA": {
+                "id": 50408
+            },
+            "EUR": {
+                "id": 40142
+            },
+            "RUB": {
+                "id": 76885
+            },
+            "JPY": {
+                "id": 76882
+            },
+            "XRP": {
+                "id": 28573
+            },
+            "USDT": {
+                "id": 24700
+            },
+            "ETH": {
+                "id": 24697
+            },
+            "BRL": {
+                "id": 76884
+            },
+            "BTC": {
+                "id": 24695
+            },
+            "BNB": {
+                "id": 50406
+            },
+            "USD": {
+                "id": 40143
+            },
+            "BCH": {
+                "id": 24694
+            },
+            "NOK": {
+                "id": 76881
+            },
+            "CAD": {
+                "id": 86215
+            },
+            "AUD": {
+                "id": 86216
+            },
+            "NZD": {
+                "id": 76883
+            },
+            "TRX": {
+                "id": 50407
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:03"
+    },
+    "151": {
+        "id": 2271,
+        "gid": "softswiss\/CandyMonsta",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:CandyMonsta",
+        "name": "Candy Monsta",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "571",
+        "popularity": "632",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/CandyMonsta\/FUN?play_token=1935f694-335a-4149-a8d3-df3029571eed",
+        "origin_demolink": "\/games\/softswiss\/CandyMonsta\/24726",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "ETH": {
+                "id": 24725
+            },
+            "XRP": {
+                "id": 28643
+            },
+            "BTC": {
+                "id": 24723
+            },
+            "TRX": {
+                "id": 50524
+            },
+            "BCH": {
+                "id": 24722
+            },
+            "BNB": {
+                "id": 50523
+            },
+            "BRL": {
+                "id": 77175
+            },
+            "USD": {
+                "id": 40311
+            },
+            "NOK": {
+                "id": 77172
+            },
+            "USDT": {
+                "id": 24728
+            },
+            "RUB": {
+                "id": 77176
+            },
+            "ADA": {
+                "id": 50525
+            },
+            "AUD": {
+                "id": 86304
+            },
+            "JPY": {
+                "id": 77173
+            },
+            "NZD": {
+                "id": 77174
+            },
+            "LTC": {
+                "id": 24727
+            },
+            "DOG": {
+                "id": 24724
+            },
+            "EUR": {
+                "id": 40310
+            },
+            "CAD": {
+                "id": 86303
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:03"
+    },
+    "152": {
+        "id": 2272,
+        "gid": "softswiss\/BookOfCats",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:BookOfCats",
+        "name": "Book Of Cats",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "43",
+        "popularity": "60",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/BookOfCats\/FUN?play_token=33db5075-38a6-4a42-8e05-ecee7df187a9",
+        "origin_demolink": "\/games\/softswiss\/BookOfCats\/2190",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "AUD": {
+                "id": 86318
+            },
+            "DOG": {
+                "id": 4159
+            },
+            "BCH": {
+                "id": 4157
+            },
+            "BNB": {
+                "id": 50544
+            },
+            "EUR": {
+                "id": 40332
+            },
+            "USDT": {
+                "id": 4162
+            },
+            "JPY": {
+                "id": 77218
+            },
+            "CAD": {
+                "id": 86317
+            },
+            "RUB": {
+                "id": 77221
+            },
+            "TRX": {
+                "id": 50545
+            },
+            "BRL": {
+                "id": 77220
+            },
+            "XRP": {
+                "id": 28654
+            },
+            "ETH": {
+                "id": 4160
+            },
+            "BTC": {
+                "id": 4158
+            },
+            "NZD": {
+                "id": 77219
+            },
+            "LTC": {
+                "id": 4161
+            },
+            "NOK": {
+                "id": 77217
+            },
+            "ADA": {
+                "id": 50546
+            },
+            "USD": {
+                "id": 40333
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:01"
+    },
+    "155": {
+        "id": 2275,
+        "gid": "softswiss\/BlackjackPro",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:BlackjackPro",
+        "name": "Multihand Blackjack Pro",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "193",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/BlackjackPro\/FUN?play_token=bf1f1594-89f0-432b-922d-2ce60173fca2",
+        "origin_demolink": "\/games\/softswiss\/BlackjackPro\/1390",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "EUR": {
+                "id": 92221
+            },
+            "RUB": {
+                "id": 77031
+            },
+            "BTC": {
+                "id": 3243
+            },
+            "JPY": {
+                "id": 77028
+            },
+            "NOK": {
+                "id": 77027
+            },
+            "ETH": {
+                "id": 3245
+            },
+            "USDT": {
+                "id": 3247
+            },
+            "LTC": {
+                "id": 3246
+            },
+            "AUD": {
+                "id": 92224
+            },
+            "ADA": {
+                "id": 92228
+            },
+            "USD": {
+                "id": 92222
+            },
+            "BNB": {
+                "id": 92226
+            },
+            "TRX": {
+                "id": 92227
+            },
+            "CAD": {
+                "id": 92223
+            },
+            "BRL": {
+                "id": 77030
+            },
+            "BCH": {
+                "id": 3242
+            },
+            "XRP": {
+                "id": 92225
+            },
+            "DOG": {
+                "id": 3244
+            },
+            "NZD": {
+                "id": 77029
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:02"
+    },
+    "156": {
+        "id": 2276,
+        "gid": "softswiss\/BigAtlantisFrenzy",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:BigAtlantisFrenzy",
+        "name": "Big Atlantis Frenzy",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "64",
+        "popularity": "128",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/BigAtlantisFrenzy\/FUN?play_token=32e7f43e-c0be-4c22-946f-e2067fc9dda1",
+        "origin_demolink": "\/games\/softswiss\/BigAtlantisFrenzy\/39572",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "NOK": {
+                "id": 77012
+            },
+            "BCH": {
+                "id": 39565
+            },
+            "TRX": {
+                "id": 50464
+            },
+            "USD": {
+                "id": 40223
+            },
+            "LTC": {
+                "id": 39570
+            },
+            "NZD": {
+                "id": 77014
+            },
+            "BTC": {
+                "id": 39567
+            },
+            "USDT": {
+                "id": 39566
+            },
+            "ADA": {
+                "id": 50465
+            },
+            "AUD": {
+                "id": 86258
+            },
+            "XRP": {
+                "id": 39568
+            },
+            "CAD": {
+                "id": 86257
+            },
+            "DOG": {
+                "id": 39571
+            },
+            "EUR": {
+                "id": 40222
+            },
+            "ETH": {
+                "id": 39569
+            },
+            "BNB": {
+                "id": 50463
+            },
+            "RUB": {
+                "id": 77016
+            },
+            "BRL": {
+                "id": 77015
+            },
+            "JPY": {
+                "id": 77013
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:02"
+    },
+    "157": {
+        "id": 2277,
+        "gid": "softswiss\/BonanzaBillion",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:BonanzaBillion",
+        "name": "Bonanza Billion",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "100",
+        "popularity": "16",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/BonanzaBillion\/FUN?play_token=50d72a47-78e7-4091-91d2-7dc6b395c858",
+        "origin_demolink": "\/games\/softswiss\/BonanzaBillion\/26731",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "DOG": {
+                "id": 26729
+            },
+            "ETH": {
+                "id": 26730
+            },
+            "JPY": {
+                "id": 76983
+            },
+            "USD": {
+                "id": 40209
+            },
+            "LTC": {
+                "id": 26732
+            },
+            "TRX": {
+                "id": 50452
+            },
+            "NZD": {
+                "id": 76984
+            },
+            "BTC": {
+                "id": 26728
+            },
+            "BNB": {
+                "id": 50451
+            },
+            "XRP": {
+                "id": 26734
+            },
+            "AUD": {
+                "id": 86250
+            },
+            "RUB": {
+                "id": 76986
+            },
+            "NOK": {
+                "id": 76982
+            },
+            "BCH": {
+                "id": 26727
+            },
+            "ADA": {
+                "id": 50453
+            },
+            "CAD": {
+                "id": 86249
+            },
+            "USDT": {
+                "id": 26733
+            },
+            "EUR": {
+                "id": 40208
+            },
+            "BRL": {
+                "id": 76985
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:02"
+    },
+    "158": {
+        "id": 2278,
+        "gid": "softswiss\/AztecMagicDeluxe",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:AztecMagicDeluxe",
+        "name": "Aztec Magic Deluxe",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "84",
+        "popularity": "508",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/AztecMagicDeluxe\/FUN?play_token=22b3d20d-4e28-45c6-ba4e-073516ba33dc",
+        "origin_demolink": "\/games\/softswiss\/AztecMagicDeluxe\/1184",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "USDT": {
+                "id": 2988
+            },
+            "EUR": {
+                "id": 40202
+            },
+            "XRP": {
+                "id": 28593
+            },
+            "LTC": {
+                "id": 2987
+            },
+            "ADA": {
+                "id": 50447
+            },
+            "JPY": {
+                "id": 76968
+            },
+            "ETH": {
+                "id": 2986
+            },
+            "BCH": {
+                "id": 2983
+            },
+            "BNB": {
+                "id": 50445
+            },
+            "USD": {
+                "id": 40203
+            },
+            "NOK": {
+                "id": 76967
+            },
+            "NZD": {
+                "id": 76969
+            },
+            "BRL": {
+                "id": 76970
+            },
+            "CAD": {
+                "id": 86245
+            },
+            "RUB": {
+                "id": 76971
+            },
+            "AUD": {
+                "id": 86246
+            },
+            "BTC": {
+                "id": 2984
+            },
+            "TRX": {
+                "id": 50446
+            },
+            "DOG": {
+                "id": 2985
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:02"
+    },
+    "159": {
+        "id": 2279,
+        "gid": "softswiss\/AztecMagicMegaways",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:AztecMagicMegaways",
+        "name": "Aztec Magic Megaways",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "2855",
+        "popularity": "163",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/AztecMagicMegaways\/FUN?play_token=4c5a28e9-96ea-49eb-a07a-e3a1295cdb0b",
+        "origin_demolink": "\/games\/softswiss\/AztecMagicMegaways\/31032",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "NOK": {
+                "id": 76947
+            },
+            "ETH": {
+                "id": 31029
+            },
+            "XRP": {
+                "id": 31028
+            },
+            "RUB": {
+                "id": 76951
+            },
+            "BRL": {
+                "id": 76950
+            },
+            "USDT": {
+                "id": 31025
+            },
+            "BNB": {
+                "id": 50436
+            },
+            "TRX": {
+                "id": 50437
+            },
+            "EUR": {
+                "id": 31021
+            },
+            "NZD": {
+                "id": 76949
+            },
+            "BTC": {
+                "id": 31027
+            },
+            "LTC": {
+                "id": 31030
+            },
+            "DOG": {
+                "id": 31031
+            },
+            "JPY": {
+                "id": 76948
+            },
+            "CAD": {
+                "id": 86237
+            },
+            "ADA": {
+                "id": 50438
+            },
+            "BCH": {
+                "id": 31024
+            },
+            "AUD": {
+                "id": 86238
+            },
+            "USD": {
+                "id": 31022
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:03"
+    },
+    "160": {
+        "id": 2280,
+        "gid": "softswiss\/AztecMagicBonanza",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:AztecMagicBonanza",
+        "name": "Aztec Magic Bonanza",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "100",
+        "popularity": "5049",
+        "bonusbuy": 1,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/AztecMagicBonanza\/FUN?play_token=bd7b8b00-f8a2-479e-a55a-b2f9407dfdf9",
+        "origin_demolink": "\/games\/softswiss\/AztecMagicBonanza\/92178",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "BTC": {
+                "id": 92170
+            },
+            "NOK": {
+                "id": 76831
+            },
+            "NZD": {
+                "id": 76833
+            },
+            "TRX": {
+                "id": 92174
+            },
+            "JPY": {
+                "id": 76832
+            },
+            "CAD": {
+                "id": 92166
+            },
+            "ETH": {
+                "id": 92173
+            },
+            "BCH": {
+                "id": 92167
+            },
+            "XRP": {
+                "id": 92171
+            },
+            "LTC": {
+                "id": 92175
+            },
+            "RUB": {
+                "id": 76835
+            },
+            "USD": {
+                "id": 92165
+            },
+            "BNB": {
+                "id": 92172
+            },
+            "DOG": {
+                "id": 92176
+            },
+            "BRL": {
+                "id": 76834
+            },
+            "AUD": {
+                "id": 92169
+            },
+            "USDT": {
+                "id": 92168
+            },
+            "ADA": {
+                "id": 92177
+            },
+            "EUR": {
+                "id": 92164
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:03"
+    },
+    "161": {
+        "id": 2281,
+        "gid": "softswiss\/Avalon",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:Avalon",
+        "name": "Avalon: The Lost Kingdom",
+        "provider": "bgaming",
+        "type": "slots",
+        "typeRating": "225",
+        "popularity": "881",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/Avalon\/FUN?play_token=18dacfcd-c617-4e4c-9872-82bfb6e1b8af",
+        "origin_demolink": "\/games\/softswiss\/Avalon\/2310",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "RUB": {
+                "id": 77246
+            },
+            "AUD": {
+                "id": 86324
+            },
+            "EUR": {
+                "id": 40350
+            },
+            "USDT": {
+                "id": 4314
+            },
+            "CAD": {
+                "id": 86323
+            },
+            "TRX": {
+                "id": 50554
+            },
+            "NOK": {
+                "id": 77242
+            },
+            "ETH": {
+                "id": 4312
+            },
+            "XRP": {
+                "id": 28662
+            },
+            "BRL": {
+                "id": 77245
+            },
+            "BTC": {
+                "id": 4310
+            },
+            "LTC": {
+                "id": 4313
+            },
+            "USD": {
+                "id": 40351
+            },
+            "NZD": {
+                "id": 77244
+            },
+            "DOG": {
+                "id": 4311
+            },
+            "JPY": {
+                "id": 77243
+            },
+            "ADA": {
+                "id": 50555
+            },
+            "BNB": {
+                "id": 50553
+            },
+            "BCH": {
+                "id": 4309
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:04"
+    },
+    "171": {
+        "id": 2291,
+        "gid": "softswiss\/AmericanRoulette",
+        "gid_extra": null,
+        "batch": "27",
+        "slug": "softswiss:AmericanRoulette",
+        "name": "American Roulette",
+        "provider": "bgaming",
+        "type": "casino",
+        "typeRating": "0",
+        "popularity": "1080",
+        "bonusbuy": 0,
+        "jackpot": 0,
+        "demoplay": 1,
+        "demolink": "https:\/\/bgaming-network.com\/games\/AmericanRoulette\/FUN?play_token=13a19c54-b07b-496f-8bf9-f01d3cc18e09",
+        "origin_demolink": "\/games\/softswiss\/AmericanRoulette\/1738",
+        "image": null,
+        "source": "api.bets.io",
+        "source_schema": "softswiss",
+        "method": "demo_method",
+        "realmoney": {
+            "JPY": {
+                "id": 77098
+            },
+            "DOG": {
+                "id": 3583
+            },
+            "XRP": {
+                "id": 28624
+            },
+            "USD": {
+                "id": 40269
+            },
+            "NZD": {
+                "id": 77099
+            },
+            "BRL": {
+                "id": 77100
+            },
+            "AUD": {
+                "id": 86278
+            },
+            "USDT": {
+                "id": 3586
+            },
+            "LTC": {
+                "id": 3585
+            },
+            "BNB": {
+                "id": 50490
+            },
+            "BCH": {
+                "id": 3581
+            },
+            "CAD": {
+                "id": 86277
+            },
+            "BTC": {
+                "id": 3582
+            },
+            "EUR": {
+                "id": 40268
+            },
+            "TRX": {
+                "id": 50491
+            },
+            "ADA": {
+                "id": 50492
+            },
+            "ETH": {
+                "id": 3584
+            },
+            "RUB": {
+                "id": 77101
+            },
+            "NOK": {
+                "id": 77097
+            }
+        },
+        "enabled": true,
+        "created_at": "2022-10-27 22:21:37",
+        "updated_at": "2022-10-27 22:22:04"
+    }
+}

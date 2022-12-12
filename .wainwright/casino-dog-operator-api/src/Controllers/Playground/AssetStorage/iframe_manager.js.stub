@@ -1,0 +1,31 @@
+var manager = iframemanager();
+
+manager.run({
+    currLang: document.documentElement.getAttribute('lang'),
+    // autoLang: true,
+    services : {
+        twitch : {
+            embedUrl: '[URL]',
+            iframe : {
+                id : 'hello',
+                allow : 'accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen;',
+                // function run for each iframe configured with current service
+                
+                onload : function(data_id, setThumbnail){
+                    console.log("loaded iframe with data-id=" + data_id);
+                }
+            },
+            cookie : {						
+                name : 'cc_youtube',
+                path : '/demo-projects/iframemanager'
+            },
+            languages : {
+                'en' : {
+                    notice: 'These games should never be used in any productional capacity, all is merely to showcase and you should not use these methods to scam off players like David Wainwright, Martijn Martens, Vlad Suciu & Co are doing.<br><br>Official complaints have been made in March @ KSA.NL & U.K. Gambling Commission in September.',
+                    loadBtn: 'I understand, load game.',
+                    loadAllBtn: 'Don\'t show again'
+                }
+            }
+        },
+    }
+});
